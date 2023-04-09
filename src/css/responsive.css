@@ -1,0 +1,78 @@
+
+/* SITE RESPONSIVe */
+@media only screen and (max-width: 1200px) {
+    .country-info {
+        flex-direction: column;
+    }
+    .country-info__img {
+        margin-right: 0;
+        margin-bottom: 5rem;
+    }
+    .country-info__content {
+        margin-bottom: 5rem;
+    }
+}
+/* DESKTOP */
+@media only screen and (max-width: 992px) {
+
+}
+/* TABLE */
+@media only screen and (max-width: 768px) {
+    .search {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .search__input {
+        margin-bottom: 4rem;
+    }
+}
+/* PHONE */
+@media only screen and (max-width: 576px) {
+    .container {
+        padding: 0 1rem;
+    }
+    .header {
+        padding: 3rem 0;
+    }
+    .header__logo {
+        font-size: 1.5rem;
+    }
+    .search__input {
+        width: 100%;
+    }
+    .cards {
+        padding-bottom: 6.5rem;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 4rem;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+    .back-button-wrapper {
+        margin: 4rem 0 6rem;
+    }
+    .country-info__img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .country-info__img {
+        margin-bottom: 4rem;
+    }
+    .country-info h2 {
+        margin-bottom: 1.6rem;
+    }
+    .country-info__list {
+        flex-direction: column;
+        margin-bottom: 3rem;
+    }
+    .country-info__list li:not(:last-child) {
+        margin-bottom: 3rem;
+    }
+}
+
+/* LITTLE PHONE */
+@media only screen and (max-width: 375px) {
+
+}

@@ -1,0 +1,75 @@
+/* Section-1 */
+.map{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.map__info{
+text-align: center;
+}
+.map__info__title{
+    font-size: 4rem;
+    line-height: 6rem;
+    letter-spacing: 0.75px;
+}
+.map__info__text{
+    max-width: 60rem;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+.map__bac{
+    width: 30rem;
+    height: 30rem;
+    background: url(../../../public/images/uzb_map_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.site-hr{
+    height: 5px;
+    background-color: aqua;
+    border: none;
+}
+/* Section-2 */
+.satelite__map__images{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+}
+.satelite__img{
+    background-color: inherit;
+    
+}
+.satelite__map{
+    max-width: 100%;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    padding-top: 35rem;
+    position: relative;
+}
+.satelite__title{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 4rem;
+    line-height: 6rem;
+    letter-spacing: 0.75px;
+}
+.satelite__text{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+.relyef__map{
+    margin-top: 10rem;
+}
+/* google-maps */
+.google-maps{
+    margin-bottom: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
