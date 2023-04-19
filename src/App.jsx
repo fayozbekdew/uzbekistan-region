@@ -51,7 +51,7 @@ function App() {
       </Routes>
        
       {/* <BootstrapSlider/> */}
-      {/* <Footer/> */}
+      <Footer/>
     </Router>
     </div>
   )
