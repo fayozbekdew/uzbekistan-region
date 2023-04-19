@@ -1,6 +1,5 @@
 import React from 'react'
 import './Main.css'
-import ReactImageMagnify from 'react-image-magnify';
 
 const Main = () => {
   const sateliteImg = '../../../public/images/Uzbekistan-Satellite-Map.png'
@@ -22,19 +21,6 @@ const Main = () => {
       <hr className="site-hr" />
       <section className="satelite__map">
         <div className="satelite__map__images">
-        {/* <img className='satelite__img' src="" alt="satelite-map" /> */}
-        <ReactImageMagnify {...{
-        smallImage: {
-        alt: 'satelite uzbekistan',
-        isFluidWidth: true,
-        src: sateliteImg
-        },
-        largeImage: {
-        src: sateliteImg,
-        width: 1100,
-        height: 1500
-        }
-        }} />
         </div>
         <h1 className="satelite__title">
           Sun'iy yo`ldosh malumotlari
