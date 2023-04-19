@@ -2,7 +2,7 @@ import React from 'react'
 import './Main.css'
 
 const Main = () => {
-  const sateliteImg = '../../../public/images/Uzbekistan-Satellite-Map.png'
+  // const sateliteImg = '../../../public/images/Uzbekistan-Satellite-Map.png'
   return (
     <div className='container'>
       <section className="map">
@@ -21,6 +21,7 @@ const Main = () => {
       <hr className="site-hr" />
       <section className="satelite__map">
         <div className="satelite__map__images">
+          <img src="./public/images/Uzbekistan-Satellite-Map.png" alt="" />
         </div>
         <h1 className="satelite__title">
           Sun'iy yo`ldosh malumotlari
