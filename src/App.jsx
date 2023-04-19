@@ -16,7 +16,6 @@ import Qashqadaryo from './pages/SelectItem/Qashqadaryo'
 import Xorazm from './pages/SelectItem/Xorazm'
 import Sirdaryo from './pages/SelectItem/Sirdaryo'
 import Qoraqalpogiston from './pages/SelectItem/Qoraqalpogiston'
-// import Slider from './component/Slider/Slider'
 import Sliderr from './component/Sliderr/Sliderr'
 import Main from './pages/main/Main'
 import './css/item.css'
@@ -49,8 +48,7 @@ function App() {
       <Route path='/qoraqalpogiston' element={<Qoraqalpogiston/>}/>
       <Route path='/' element={<Main/>}/>
       </Routes>
-       
-      {/* <BootstrapSlider/> */}
+      <BootstrapSlider/>
       <Footer/>
     </Router>
     </div>
