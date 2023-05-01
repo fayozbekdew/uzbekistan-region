@@ -69,7 +69,7 @@ const Qoraqalpogiston = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston.jpg"
+                        src="../public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

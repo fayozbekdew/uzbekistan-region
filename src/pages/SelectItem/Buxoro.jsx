@@ -17,9 +17,9 @@ const Buxoro = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Umumiy malumotlar
+                            Umumiy ma'lumotlar
                         </h3>
-                        <p><b>Buxoro</b> — Oʻzbekiston Respublikasining qadimiy shaharlaridan biri, Buxoro viloyatining maʼmuriy, iqtisodiy va madaniy markazi. O'zbekistonning ilk poytaxti. Buyuk ipаk yoʻlida yirik tijorat markazlaridan boʻlgan. Oʻzbekistonning janubiy-gʻarbida, Zarafshon daryosi quyi oqimida joylashgan. Toshkentdan 616 km. Buxoro 2 ta shahar rayoni (Fayzulla Xoʻjayev va Toʻqimachilik)ga boʻlingan. Aholisi 290000 (2019). Aholisining katta qismini o'zbeklar tashkil etadi.</p>
+                        <p><b>Buxoro</b> — Oʻzbekiston Respublikasining qadimiy shaharlaridan biri, Buxoro viloyatining maʼmuriy, iqtisodiy va madaniy markazi. O'zbekistonning ilk poytaxti. Buyuk ipаk yoʻlidagi yirik tijorat markazlaridan boʻlgan. Oʻzbekistonning janubiy-gʻarbida, Zarafshon daryosi quyi oqimida joylashgan. Toshkentdan 616 km. Buxoro 2 ta shahar rayoni (Fayzulla Xoʻjayev va Toʻqimachilik)ga boʻlingan. Aholisi 290000 (2019). Aholisining katta qismini o'zbeklar tashkil etadi.</p>
                     </div>
                     <div className="cities_info_bac">
                         <video src="../../../public/videos/buxoro_video.mov" autoPlay loop muted />
@@ -38,7 +38,7 @@ const Buxoro = () => {
                           <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                           <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                           <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                          <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                          <p className="capital">Qo`shimcha ma'lumot: <span>{trip.info}</span></p>
                         </div>
                       </li>
                     )

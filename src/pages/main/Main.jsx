@@ -8,11 +8,11 @@ const Main = () => {
       <section className="map">
         <div className="map__info">
           <h1 className="map__info__title">
-            Uzbekistan joylashuvi
+            O'zbekiston joylashuvi
           </h1>
           <p className="map__info__text">
-          Oʻzbekiston Markaziy Osiyodagi quruq, quruqlikka chiqmaydigan davlat boʻlib, katta choʻllarga ega. U beshta davlat, jumladan shimolda Qozog'iston, shimoli-sharqda Qirg'iziston, janubi-sharqda Tojikiston, janubda Afg'oniston va janubi-g'arbda Turkmaniston bilan chegaradosh.
-         Toshkent Oʻzbekistonning poytaxti va eng yirik shahri boʻlib, shimoli-sharqda Qozogʻiston bilan chegarada joylashgan. Boshqa yirik shaharlarga Samarqand, Fargʻona va Namangan kiradi.
+          Oʻzbekiston Markaziy Osiyodagi quruq, quruqlikka chiqmaydigan davlat boʻlib, katta choʻllarga ega. U beshta davlat, jumladan shimolda Qozog'iston, shimoliy-sharqda Qirg'iziston, janubiy-sharqda Tojikiston, janubda Afg'oniston va janubiy-g'arbda Turkmaniston bilan chegaradosh.
+         Toshkent Oʻzbekistonning poytaxti va eng yirik shahri boʻlib, shimoliy-sharqda Qozogʻiston bilan chegarada joylashgan. Boshqa yirik shaharlarga Samarqand, Fargʻona va Namangan kiradi.
           </p>
         </div>
         <div className="map__bac">
@@ -24,20 +24,20 @@ const Main = () => {
           <img src="./public/images/Uzbekistan-Satellite-Map.png" alt="" />
         </div>
         <h1 className="satelite__title">
-          Sun'iy yo`ldosh malumotlari
+          Sun'iy yo`ldosh ma'lumotlari
         </h1>
         <p className="satelite__text">
-        Oʻzbekiston 447.400 kvadrat kilometr (172.700 kvadrat milya) maydonni egallaydi. Taqqoslash uchun, Turkmanistondan kichikroq, lekin Marokashdan kattaroq. Orol dengizi bir vaqtlar O‘zbekiston shimolidagi dunyodagi eng katta 4-ko‘l edi. Ammo Sovet Ittifoqidan o'zgargan suv oqimi tufayli u qisqarib, qisman qurib qolgan. Qizilqum choʻli Oʻzbekistonning markaziy mintaqasini egallagan 15-chi yirik choʻldir. G'arbda Ustyurt platosi joylashgan. Oʻzbekistonning eng zich joylashgan hududi mamlakatning sharqiy tomonida joylashgan
+        Oʻzbekiston 447.400 kvadrat kilometr (172.700 kvadrat milya) maydonni egallaydi. Taqqoslash uchun, Turkmanistondan kichikroq,  Marokashdan kattaroq. Orol dengizi bir vaqtlar O‘zbekiston shimolidagi dunyodagi eng katta 4-ko‘l edi. Ammo unga quyiladigan daryolarning o'zgargan suv oqimi sababli u qisqarib, qisman qurib qolgan. Qizilqum choʻli Oʻzbekistonning markaziy mintaqasini egallagan 15-chi yirik choʻldir. G'arbda Ustyurt platosi joylashgan. Oʻzbekistonning aholisi eng zich  hududi mamlakatning sharqiy tomonida joylashgan.
         </p>
       </section>
       <hr className="site-hr" />
       <section  className="relyef__map">
         <img className='hildshade__img' src="../../../public/images/relyef-map.webp" alt="hillshade-map" />
         <h1 className="satelite__title">
-          Balandlik malumotlari
+          Balandlik ma'lumotlari
         </h1>
         <p className="satelite__text">
-        Oʻzbekiston past adirlar, platolar, tekisliklar va togʻlar bilan kesishgan tekisliklar aralashmasidir. Masalan, Ustyurt platosi Oʻzbekiston shimoli-gʻarbida Orol dengizi va Amudaryo oraligʻida joylashgan. Toʻgʻridan-toʻgʻri platoning yonida sharqda Turon pasttekisligi joylashgan. Oʻzbekistonning eng baland mintaqasi Hisor tizmasi boʻlib, Tojikistondan Oʻzbekistonga choʻzilgan. Balandligi 4643 metr (15233 fut) boʻlib, Pomir togʻlaridagi Hisor tizmasining bir qismi boʻlgan Oʻzbekistondagi eng baland choʻqqidir.
+        Oʻzbekiston past adirlar, platolar, tekisliklar va togʻlar bilan kesishgan tekisliklardan tashkil topgan. Masalan, Ustyurt platosi Oʻzbekiston shimoliy-gʻarbida Orol dengizi va Amudaryo oraligʻida joylashgan. Toʻgʻridan-toʻgʻri platoning yonida sharqda Turon past tekisligi joylashgan. Oʻzbekistonning eng baland mintaqasi Hisor tizmasi boʻlib, Tojikistondan Oʻzbekistonga choʻzilgan. Balandligi 4643 metr (15233 fut) boʻlib, Pomir togʻlaridagi Hisor tizmasining bir qismi boʻlgan Oʻzbekistondagi eng baland choʻqqidir.
         </p>
       </section>
         <div className="google-maps">

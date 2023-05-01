@@ -16,9 +16,9 @@ const Namangan = () => {
         <div className="cities_info">
           <div className="cities_info_text">
             <h3>
-              Umumiy malumotlar
+              Umumiy ma'lumotlar
             </h3>
-            <p><b>Namangan</b> — Namangan viloyatidagi shahar. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi Aholi soni boʻyicha Fargʻonadan oldingi oʻrinda. Oʻzbekistonning yirik shaharlaridan biri. Fargʻona vodiysining har jihatdan peshqadam viloyati. Vodiyning shim.da, Shim. Fargʻona kanali bilan Namangansoy kesishgan yerda, 450 m balandlikda joylashgan. Maydoni 83,3 ming km². Iyulning oʻrtacha temperaturasi 26,3°, yanv.niki —2,3°. Aholisi 1mln ming kishi atrofida (2021)</p>
+            <p><b>Namangan</b> — Namangan viloyatidagi shahar. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi Aholi soni boʻyicha Fargʻonadan oldingi oʻrinda. Oʻzbekistonning yirik shaharlaridan biri. Fargʻona vodiysining har jihatdan peshqadam viloyati. Vodiyning shimolida, Shim. Fargʻona kanali bilan Namangansoy kesishgan yerda, 450 m balandlikda joylashgan. Maydoni 83,3 ming km². Iyulning oʻrtacha harorati 26,3°, yanv.niki —2,3°. Aholisi 1mln ming kishi atrofida (2021)</p>
           </div>
           <div className="cities_info_bac">
             <video src="../../../public/videos/namangan.mov" autoPlay loop muted />
@@ -37,7 +37,7 @@ const Namangan = () => {
                 <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                 <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                 <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                <p className="capital">Qo'shimcha ma'lumot: <span>{trip.info}</span></p>
               </div>
             </li>
           )

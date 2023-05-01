@@ -17,9 +17,9 @@ const Andijon = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Umumiy malumotlar
+                            Umumiy ma'lumotlar
                         </h3>
-                        <p><b>Andijon</b> — Oʻzbekistonning Andijon viloyatidagi shahardir. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi. Oʻzbekistonning yirik industrial shaharlaridan biri. Shahar Fargʻona vodiysining sharqida. Andijonsoy yoqasida, dengiz sathidan 450 m balandlikda joylashgan. Iyulning oʻrtacha harorati 27 °C — 28 °C, yanvarniki — 3 °C. Aholisi 333,4 ming kishi (2000). Maydoni 74,3 km2. Andijon shahri shimoli-gʻarbdan Oltinkoʻl tumani, gʻarbdan Buloqboshi tumani va janubi-sharqdan Andijon tumani bilan chegaradosh</p>
+                        <p><b>Andijon</b> — Oʻzbekistonning Andijon viloyatidagi shahardir. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi. Oʻzbekistonning yirik industrial shaharlaridan biri. Shahar Fargʻona vodiysining sharqida  Andijonsoy yoqasida, dengiz sathidan 450 m balandlikda joylashgan. Iyulning oʻrtacha harorati 27 °C — 28 °C, yanvarniki — 3 °C. Aholisi 333,4 ming kishi (2000). Maydoni 74,3 km2. Andijon shahri shimoliy-gʻarbdan Oltinkoʻl tumani, gʻarbdan Buloqboshi tumani va janubiy-sharqdan Andijon tumani bilan chegaradosh</p>
                     </div>
                     <div className="cities_info_bac">
                         <video src="../../../public/videos/andijon_video.mov" autoPlay loop muted />
@@ -38,7 +38,7 @@ const Andijon = () => {
                                 <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                                 <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                                 <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                                <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                                <p className="capital">Qo`shimcha ma'lumot: <span>{trip.info}</span></p>
                             </div>
                         </li>
                     )

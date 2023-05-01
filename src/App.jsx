@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './css/App.css'
-import Search from './component/Search/Search'
+// import Search from './component/Search/Search'
 import Footer from './pages/footer/Footer'
 import Header from './pages/header/Header'
 import All from './pages/SelectItem/All'
@@ -29,7 +29,7 @@ function App() {
     <div className="App">
     <Router>
       <Header/>
-      <Search/>
+      {/* <Search/> */}
       <Sliderr/>
       <Routes>
       <Route path='/' element={<Main/>}/>
