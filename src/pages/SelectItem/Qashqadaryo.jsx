@@ -16,9 +16,9 @@ const Qashqadaryo = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Relyef hususiyatlari
+                            Umumiy ma'lumotlar
                         </h3>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque harum voluptatibus esse? Distinctio assumenda, ipsam, fuga corrupti laborum minima corporis omnis dicta, pariatur quod facilis eaque id tenetur magni aliquid consequatur ullam dignissimos fugit ex quo vel quidem repellendus. Libero iusto quas iure, in deleniti sunt modi autem dignissimos eaque.</p>
+                        <p> <b>Qashqadaryo viloyati</b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. 1924-yil 1-noyabrda tashkil etilgan. Respublikaning janubi-gʻarbida, Qashqadaryo havzasida, Pomir-Oloy togʻ tizmasining gʻarbiy chekkasida, Amudaryo va Zarafshon daryolari, Hisor va Zarafshon tizma togʻlari orasida. Shimoli-gʻarbdan Buxoro va janubi-sharqdan Surxondaryo viloyatlari, janubi-gʻarb va gʻarbdan Turkmaniston Respublikasi, sharqdan Tojikiston Respublikasi hamda Samarqand viloyati bilan chegaradosh. Maydoni 28,6 ming km². Aholisi 3,408,300 kishi (3-oʻrin) (2022). Viloyat hokimi Murotjon Azimov (2021-yil 18-noyabrdan) Tarkibida 14 tumani (Dehqonobod, Kasbi, Kitob, Koson, Koʻkdala tumani), Mirishkor, Muborak, Nishon, Qamashi, Qarshi, Yakkabogʻ, Gʻuzor, Shahrisabz, Chiroqchi, 12 shahar (Beshkent, Kitob, Koson, Muborak, Tallimarjon, Chiroqchi, Shahrisabz, Yakkabogʻ, Yangi Nishon, Qamashi, Qarshi, Gʻuzor), 4 shaharcha (Yangi Mirishkor,Dehqonobod, Miroqi, Eski Yakkabogʻ, Pomuq), 147 qishloq fuqarolari yigʻini, 1064 qishloq bor</p>
                     </div>
                     <div className="cities_info_bac">
                         <video src="../../../public/videos/qashqadaryo_video.mov" autoPlay loop muted />
@@ -37,7 +37,7 @@ const Qashqadaryo = () => {
                           <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                           <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                           <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                          <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                          <p className="capital">Qoshimcha ma'lumot: <span>{trip.info}</span></p>
                         </div>
                       </li>
                     )

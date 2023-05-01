@@ -17,7 +17,7 @@ const Fargona = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Umumiy malumotlar
+                            Umumiy ma'lumotlar
                         </h3>
                         <p><b>Fargʻona</b> (1907-yilgacha — Yangi Margʻilon; 1907—1924-yillarda Skobelev, mahalliy talaffuzda — Iskobil deb atalgan. Podsho Rossiyasining Oʻrta Osiyoni bosib olishda va keyingi yillarda koʻplab qirgʻinbarotlar uyushtirgan generali M. D. Skobelev nomiga qoʻyilgan) — Fargʻona viloyatining maʼmuriy, iktisodiy va madaniy markazi, respublikaning yirik shaharlaridan biri. Maydoni 0,09 ming km². Aholisi 222,4 ming kishi (2004, Fargʻona vodiysidagi shaharlar ichida aholi soni boʻyicha 3-oʻrinda). Shahar Fargʻona vodiysining jan. qismida, Olay togʻlarining etagida, 580 m balandlikda joylashgan. Iklimi kontinental. Oʻrtacha yillik temperatura 13°. Yanvarning oʻrtacha tempaturasi —2,7°, iyulniki 26,4°. Eng past temperatura 27°, eng yuqori temperatura 42°. Yiliga 192 mm yogʻin tushadi. Yogʻinning koʻp qismi qish va bahor fasllarida yogʻadi. Gʻarbdan baʼzan qattiq shamol va garmsel, Olay togʻi (Shohimardonsoy vodiysi)dan togʻvodiy shamoli esadi.</p>
                     </div>
@@ -38,7 +38,7 @@ const Fargona = () => {
                           <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                           <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                           <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                          <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                          <p className="capital">Qoshimcha ma'lumot: <span>{trip.info}</span></p>
                         </div>
                       </li>
                     )

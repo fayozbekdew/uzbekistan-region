@@ -7,6 +7,7 @@ import './Slider.css'
 const Sliderr = () => {
     return (
         <Swiper
+            style={{marginTop: 100}}
             spaceBetween={50}
             slidesPerView={3}
             onSlideChange={() => console.log('slide change')}

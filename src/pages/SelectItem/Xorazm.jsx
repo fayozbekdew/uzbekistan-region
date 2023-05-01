@@ -16,7 +16,7 @@ const Xorazm = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Relyef hususiyatlari
+                            Umumiy ma'lumotlar
                         </h3>
                         <p><b>Xorazm</b> (arabcha: خوارزم) — Amudaryo sohillarida markazga ega Oʻrta Osiyo qadimiy mintaqasi — qadimiy davlat[1][2][3] va rivojlangan irrigatsiyali dehqonchilik, hunarmandlik va savdo mintaqasi. Xorazm orqali Buyuk Ipak yoʻli oʻtgan. III asr oxirlarida Xorazm poytaxti Kat shahri boʻlgan; X asr oxirlarida poytaxt Urganch shahriga koʻchiriladi (hozirgi Koʻhna Urganch shahri).
                             Xorazm hududi qadimda Amudaryo adoqlaridan janubga tomon Murgʻob va Tajan daryolarining yuqori oqimlarigacha choʻzilgan.</p>
@@ -38,7 +38,7 @@ const Xorazm = () => {
                           <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                           <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                           <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                          <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                          <p className="capital">Qoshimcha ma'lumot: <span>{trip.info}</span></p>
                         </div>
                       </li>
                     )

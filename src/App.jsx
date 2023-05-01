@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './css/App.css'
-// import Search from './component/Search/Search'
+import Search from './component/Search/Search'
 import Footer from './pages/footer/Footer'
 import Header from './pages/header/Header'
 import All from './pages/SelectItem/All'
@@ -19,7 +19,7 @@ import Qoraqalpogiston from './pages/SelectItem/Qoraqalpogiston'
 import Sliderr from './component/Sliderr/Sliderr'
 import Main from './pages/main/Main'
 import './css/item.css'
-import BootstrapSlider from './component/Bootstrap-slider/BootstrapSlider'
+// import BootstrapSlider from './component/Bootstrap-slider/BootstrapSlider'
 // import './css/responsive.css'
 
 
@@ -48,7 +48,7 @@ function App() {
       <Route path='/qoraqalpogiston' element={<Qoraqalpogiston/>}/>
       <Route path='/' element={<Main/>}/>
       </Routes>
-      <BootstrapSlider/>
+      {/* <BootstrapSlider/> */}
       <Footer/>
     </Router>
     </div>

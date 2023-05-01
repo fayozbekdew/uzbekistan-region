@@ -16,9 +16,10 @@ const Samarqand = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Relyef hususiyatlari
+                            Umumiy ma'lumotlar
                         </h3>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque harum voluptatibus esse? Distinctio assumenda, ipsam, fuga corrupti laborum minima corporis omnis dicta, pariatur quod facilis eaque id tenetur magni aliquid consequatur ullam dignissimos fugit ex quo vel quidem repellendus. Libero iusto quas iure, in deleniti sunt modi autem dignissimos eaque.</p>
+                        <p><b>Samarqand viloyati</b> — Oʻzbekiston Respublikasi viloyatlaridan biri hisoblanadi. U 1938-yil 15-yanvarda tashkil topgan. Ushbu viloyat respublika hududining markaziy qismida, Zarafshon daryosining oʻrta oqimi havzasida joylashgan. Uning chegaralari gʻarb va shimoli-gʻarbda Navoiy viloyati, shimol va shimoli-sharqda Jizzax va janubda Qashqadaryo viloyatlari, janubi-sharqda Tojikiston bilan tutash.
+                            Viloyatning markaziy qismi goʻzal vohadan iborat boʻlib, bu voha uncha keng boʻlmay sharqdan-gʻarbga tomon Zarafshon va Turkiston togʻ tizmalari orasini egallagan. Viloyatning asosiy sugʻoriladigan yerlari xuddi ana shu maydonlarni egallagan</p>
                     </div>
                     <div className="cities_info_bac">
                         <video src="../../../public/videos/samarqand__video.mov" autoPlay loop muted />
@@ -29,15 +30,16 @@ const Samarqand = () => {
                 {data && data.map((trip) => {
                     return (
                         <li className="cards__item" key={trip.id}>
-                            <a href="">
-                                <img src={trip.img} width="267" height="160" />
-                                <div className="cards__item-inner">
-                                    <h3 className="cards__title">{trip.title}</h3>
-                                    <p className="population">Aholi soni: <span>{trip.population}</span></p>
-                                    <p className="region">Viloyat: <span>{trip.region}</span></p>
-                                    <p className="capital">Markazi: <span>${trip.cetral}</span></p>
-                                    <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p></div>
-                            </a>
+                            <img src={trip.img} width="267" height="160" />
+                            <div className="cards__item-inner">
+                                <h3 className="cards__title">{trip.name.charAt().toUpperCase() + trip.name.slice(1)} Tumani</h3>
+                                <p className="population">Tashkil etilgan sana: <span>{trip.since} yil</span></p>
+                                <p className="population">Aholi soni: <span>{trip.population} kishi</span></p>
+                                <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
+                                <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
+                                <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
+                                <p className="capital">Qo'shimcha ma'lumot: <span>{trip.info}</span></p>
+                            </div>
                         </li>
                     )
                 })}

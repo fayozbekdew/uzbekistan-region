@@ -16,9 +16,9 @@ const Jizzax = () => {
                 <div className="cities_info">
                     <div className="cities_info_text">
                         <h3>
-                            Relyef hususiyatlari
+                            Umumiy ma'lumotlar
                         </h3>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque harum voluptatibus esse? Distinctio assumenda, ipsam, fuga corrupti laborum minima corporis omnis dicta, pariatur quod facilis eaque id tenetur magni aliquid consequatur ullam dignissimos fugit ex quo vel quidem repellendus. Libero iusto quas iure, in deleniti sunt modi autem dignissimos eaque.</p>
+                        <p><b>Jizzax viloyati </b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. Respublikaning markaziy qismida. 1960-yil 28-dekabrda tashkil etilgan. Shim.-sharqda Qozogʻiston Respublikasi va Sirdaryo viloyati, janubi-gʻarbda Samarqand, Navoiy viloyatlari, janubisharqda Tojikiston Respublikasi bilan chegaradosh. Maydon 21,2 ming km2. Aholisi 3,920 mln kishi (2022). Jizzax viloyatida 12 tumani Arnasoy, Baxmal, Doʻstlik, Sharof Rashidov, Zarbdor, Zafarobod, Zomin, Mirzachoʻl, Paxtakor, Yangiobod, Forish, Gʻallaorol, 20 shahar (Gagarin, Dashtobod, Doʻstlik, Jizzax, Marjonbuloq, Paxtakor, Gʻallaorol,Zarbdor,Zomin,Boʻston, Zafarobod, Oʻsmat, Uchquloch, Bogʻdon,Pishagʻar,Qoʻytosh,Sharq yulduzi, Arnasoy), 230 qishloq fuqarolari yigʻini bor (2022). Markazi — Jizzax shahri (Jizzax viloyati tumanlari haqida tegishli maqolalarga q.)</p>
                     </div>
                     <div className="cities_info_bac">
                         <video src="../../../public/videos/jizzax_video.mov" autoPlay loop muted />
@@ -37,7 +37,7 @@ const Jizzax = () => {
                 <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
                 <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
                 <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                <p className="capital">Qoshimcha malumot: <span>{trip.info}</span></p>
+                <p className="capital">Qoshimcha ma'lumot: <span>{trip.info}</span></p>
               </div>
             </li>
                     )
