@@ -28,6 +28,7 @@
     border-radius: 1rem;
     position: relative;
     transition: all 0.5s linear;
+    margin-top: 10rem;
 }
 .namangan{
     background: url(../../../public/images/namamgan_region.jpg);
