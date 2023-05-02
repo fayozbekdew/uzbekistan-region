@@ -30,17 +30,17 @@ const Buxoro = () => {
                 {data && data.map((trip) => {
                     return (
                         <li className="cards__item" key={trip.id}>
-                        <img src={trip.img} width="267" height="160" />
-                        <div className="cards__item-inner">
-                          <h3 className="cards__title">{trip.name.charAt().toUpperCase() + trip.name.slice(1)} Tumani</h3>
-                          <p className="population">Tashkil etilgan sana: <span>{trip.since} yil</span></p>
-                          <p className="population">Aholi soni: <span>{trip.population} kishi</span></p>
-                          <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
-                          <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
-                          <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
-                          <p className="capital">Qo`shimcha ma'lumot: <span>{trip.info}</span></p>
-                        </div>
-                      </li>
+                            <img src={trip.img} width="267" height="160" />
+                            <div className="cards__item-inner">
+                                <h3 className="cards__title">{trip.name.charAt().toUpperCase() + trip.name.slice(1)} Tumani</h3>
+                                <p className="population">Tashkil etilgan sana: <span>{trip.since} yil</span></p>
+                                <p className="population">Aholi soni: <span>{trip.population} kishi</span></p>
+                                <p className="capital">Markazi: <span>{trip.cetral.charAt().toUpperCase() + trip.cetral.slice(1)}</span></p>
+                                <p className="capital">Maydoni: <span>{trip.area}km<sup>2</sup></span></p>
+                                <p className="capital">Aholi zichligi: <span>{trip.dencity ? trip.dencity : "Malumot topilmadi"} km<sup>2</sup></span></p>
+                                <p className="capital">Qo`shimcha ma'lumot: <span>{trip.info}</span></p>
+                            </div>
+                        </li>
                     )
                 })}
             </ul>
