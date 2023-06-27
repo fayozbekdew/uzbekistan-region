@@ -21,7 +21,7 @@ const Main = () => {
       <hr className="site-hr" />
       <section className="satelite__map">
         <div className="satelite__map__images">
-          <img src="./public/images/Uzbekistan-Satellite-Map.png" alt="" />
+          <img src="./images/Uzbekistan-Satellite-Map.png" alt="" />
         </div>
         <h1 className="satelite__title">
           Sun'iy yo`ldosh ma'lumotlari
