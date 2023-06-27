@@ -21,7 +21,7 @@ const Sirdaryo = () => {
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque harum voluptatibus esse? Distinctio assumenda, ipsam, fuga corrupti laborum minima corporis omnis dicta, pariatur quod facilis eaque id tenetur magni aliquid consequatur ullam dignissimos fugit ex quo vel quidem repellendus. Libero iusto quas iure, in deleniti sunt modi autem dignissimos eaque.</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/sirdaryo_video.mov" autoPlay loop muted />
+                        <video src="./videos/sirdaryo_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Sirdaryo = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/sirdaryo/sirdaryo-1.jpg"
+                        src="./bottomSliderImg/sirdaryo/sirdaryo-1.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Sirdaryo = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/sirdaryo/sirdaryo-2.jpg"
+                        src="./bottomSliderImg/sirdaryo/sirdaryo-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/sirdaryo/sirdaryo-3.jpg"
+                        src="./bottomSliderImg/sirdaryo/sirdaryo-3.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Sirdaryo = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/sirdaryo/sirdaryo-4.jpg"
+                        src="./bottomSliderImg/sirdaryo/sirdaryo-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

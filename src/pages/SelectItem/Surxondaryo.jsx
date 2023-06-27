@@ -21,7 +21,7 @@ const Surxondaryo = () => {
                         <p> <b>Surxondaryo viloyati </b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. 1941-yil 6-martda tashkil etilgan (1925-yil 29-iyundan Surxondaryo okrugi boʻlgan). 1960-yil 25-yanvarda Qashqadaryo viloyati bilan qoʻshilgan. 1964-yil fevralda qaytadan tashkil qilindi. Respublikaning janubi-sharqida, Surxon-Sherobod vodiysida joylashgan. Viloyat nomi vohadan oqib oʻtuvchi „Surxon“ (fors-tojik: „qizil“) daryosi nomidan kelib chiqqan. Janubidan Amudaryo boʻylab Afgʻoniston, shimoliy, shimoli-sharq va sharqdan Tojikiston, janubi-gʻarbdan Turkmaniston, shimoli-gʻarbdan Qashqadaryo viloyati bilan chegaradosh. Maydoni 20,1 ming km². Aholisi 2612,4 ming kishi boredi (2019-yil 1-oktabr holatiga koʻra). Tarkibida 14 ta tuman (Angor, Bandixon, Boysun, Denov, Jarqoʻrgʻon, Muzrabot, Oltinsoy, Sariosiyo, Termiz, Uzun, Sherobod, Shoʻrchi, Qiziriq, Qumqoʻrgʻon), 8 ta shahar (Boysun, Denov, Jarqoʻrgʻon, Termiz, Shargʻun, Sherobod, Shoʻrchi, Qumqoʻrgʻon), 114 ta shaharcha, 865 ta qishloq aholi punktlari mavjud (2020). Markazi — Termiz shahri</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/surxondaryo_video.mov" autoPlay loop muted />
+                        <video src="./videos/surxondaryo_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Surxondaryo = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/surxondaryo/surxondaryo-1.jpg"
+                        src="./bottomSliderImg/surxondaryo/surxondaryo-1.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Surxondaryo = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/surxondaryo/surxondaryo-2.jpg"
+                        src="./bottomSliderImg/surxondaryo/surxondaryo-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/surxondaryo/surxondaryo-3.jpg"
+                        src="./bottomSliderImg/surxondaryo/surxondaryo-3.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Surxondaryo = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/surxondaryo/surxondaryo-4.jpg"
+                        src="./bottomSliderImg/surxondaryo/surxondaryo-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

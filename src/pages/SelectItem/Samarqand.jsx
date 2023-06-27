@@ -22,7 +22,7 @@ const Samarqand = () => {
                             Viloyatning markaziy qismi goʻzal vohadan iborat boʻlib, bu voha uncha keng boʻlmay sharqdan-gʻarbga tomon Zarafshon va Turkiston togʻ tizmalari orasini egallagan. Viloyatning asosiy sugʻoriladigan yerlari xuddi ana shu maydonlarni egallagan</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/samarqand__video.mov" autoPlay loop muted />
+                        <video src="./videos/samarqand__video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Samarqand = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/samarqand/samarqand-1.jpg"
+                        src="./bottomSliderImg/samarqand/samarqand-1.jpg"
                         alt="First slide"
                     />
 
@@ -56,14 +56,14 @@ const Samarqand = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/samarqand/samarqand-2.jpg"
+                        src="./bottomSliderImg/samarqand/samarqand-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/samarqand/samarqand-3.jpg"
+                        src="./bottomSliderImg/samarqand/samarqand-3.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -71,7 +71,7 @@ const Samarqand = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/samarqand/samarqand-4.jpg"
+                        src="./bottomSliderImg/samarqand/samarqand-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

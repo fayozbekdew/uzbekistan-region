@@ -22,7 +22,7 @@ const Andijon = () => {
                         <p><b>Andijon</b> — Oʻzbekistonning Andijon viloyatidagi shahardir. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi. Oʻzbekistonning yirik industrial shaharlaridan biri. Shahar Fargʻona vodiysining sharqida  Andijonsoy yoqasida, dengiz sathidan 450 m balandlikda joylashgan. Iyulning oʻrtacha harorati 27 °C — 28 °C, yanvarniki — 3 °C. Aholisi 333,4 ming kishi (2000). Maydoni 74,3 km2. Andijon shahri shimoliy-gʻarbdan Oltinkoʻl tumani, gʻarbdan Buloqboshi tumani va janubiy-sharqdan Andijon tumani bilan chegaradosh</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="./public/videos/andijon_video.mov" autoPlay loop muted />
+                        <video src="./videos/andijon_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Andijon = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/andijon/andijon-4.jpg"
+                        src="./bottomSliderImg/andijon/andijon-4.jpg"
                         alt="First slide"
                     />
 
@@ -56,14 +56,14 @@ const Andijon = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/andijon/andijon-3.jpg"
+                        src="./bottomSliderImg/andijon/andijon-3.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/andijon/andijon-2.jpeg"
+                        src="./public/bottomSliderImg/andijon/andijon-2.jpeg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -71,7 +71,7 @@ const Andijon = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/andijon/andijon-1.jpeg"
+                        src="./bottomSliderImg/andijon/andijon-1.jpeg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

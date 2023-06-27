@@ -21,7 +21,7 @@ const Toshkent = () => {
                         <p><b>Toshkent viloyati </b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. Respublikaning shimoli-sharqida. 1938-yil 15-yanvarda tashkil kilingan. Shimoliy va shimoli-gʻarbdan Qozogʻiston Respublikasi, shimoli-sharqdan Qirgʻiziston Respublikasi, sharqdan Namangan viloyati, janubidan Tojikiston Respublikasi, janubi-gʻarbdan Sirdaryo viloyati bilan chegaradosh. Maydoni (Toshkent shahri maydonisiz) 15,3 ming km². Aholisi (Toshkent shahri aholisisiz) 2.931 million kishidan ziyod (2022). Viloyat tarkibida 15 ta tuman (Bekobod, Boʻka, Boʻstonliq, Zangiota, Oqqoʻrgʻon, Ohangaron, Parkent, Piskent, Chinoz, Yuqori Chirchiq, Yangiyoʻl, Oʻrta Chirchiq, Qibray, Quyi Chirchiq), 17 shahar (Angren, Bekobod, Boʻka, Doʻstobod, Keles, Olmaliq, Oqqoʻrgʻon, Ohangaron, Parkent, Piskent, Toshkent, Toʻytepa, Chinoz, Chirchiq, Yangiyoʻl, Yangiobod, Gʻazalkent), 18 shaharcha (Alimkent, Boʻzsuv, Gulbahor, Zafar, Iskandar, Krasnogorsk, Nurobod, Olmazor, Salor, Tuyaboʻgʻiz, Chigʻiriq, Chorvoq, Eshonguzar, Yangibozor, Yangi chinoz, Yangihayot, Oʻrtaovul, Qibray), 146 qishloq fuqarolari yigʻini bor. Markazi — Nurafshon shahri.</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/toshkent_video.mov" autoPlay loop muted />
+                        <video src="./videos/toshkent_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Toshkent = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/toshkent/toshkent-1.jpg"
+                        src="./bottomSliderImg/toshkent/toshkent-1.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Toshkent = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/toshkent/toshkent-3.jpg"
+                        src="./bottomSliderImg/toshkent/toshkent-3.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/toshkent/toshkent-2.jpg"
+                        src="./bottomSliderImg/toshkent/toshkent-2.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Toshkent = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/toshkent/toshkent-4.jpg"
+                        src="./bottomSliderImg/toshkent/toshkent-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

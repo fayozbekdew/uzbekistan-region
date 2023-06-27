@@ -21,7 +21,7 @@ const Namangan = () => {
             <p><b>Namangan</b> — Namangan viloyatidagi shahar. Viloyatning maʼmuriy, iqtisodiy va madaniy markazi Aholi soni boʻyicha Fargʻonadan oldingi oʻrinda. Oʻzbekistonning yirik shaharlaridan biri. Fargʻona vodiysining har jihatdan peshqadam viloyati. Vodiyning shimolida, Shim. Fargʻona kanali bilan Namangansoy kesishgan yerda, 450 m balandlikda joylashgan. Maydoni 83,3 ming km². Iyulning oʻrtacha harorati 26,3°, yanv.niki —2,3°. Aholisi 1mln ming kishi atrofida (2021)</p>
           </div>
           <div className="cities_info_bac">
-            <video src="../../../public/videos/namangan.mov" autoPlay loop muted />
+            <video src="./videos/namangan.mov" autoPlay loop muted />
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@ const Namangan = () => {
         <Carousel.Item interval={1000}>
           <img style={{ height: 500 }}
             className="d-block w-100"
-            src="../../../public/bottomSliderImg/namangan/flowersFestival.jpg"
+            src="./bottomSliderImg/namangan/flowersFestival.jpg"
             alt="First slide"
           />
 
@@ -55,14 +55,14 @@ const Namangan = () => {
         <Carousel.Item interval={500}>
           <img style={{ height: 500 }}
             className="d-block w-100"
-            src="../../../public/bottomSliderImg/namangan/afsonaLand.jpg"
+            src="./bottomSliderImg/namangan/afsonaLand.jpg"
             alt="Second slide"
           />
         </Carousel.Item>
         <Carousel.Item>
           <img style={{ height: 500 }}
             className="d-block w-100"
-            src="../../../public/bottomSliderImg/namangan/masjid.jpg.crdownload"
+            src="./bottomSliderImg/namangan/masjid.jpg.crdownload"
             alt="Third slide"
           />
         </Carousel.Item>
@@ -70,7 +70,7 @@ const Namangan = () => {
         <Carousel.Item>
           <img style={{ height: 500 }}
             className="d-block w-100"
-            src="../../../public/bottomSliderImg/namangan/megaDrop.jpg"
+            src="./bottomSliderImg/namangan/megaDrop.jpg"
             alt="Third slide"
           />
         </Carousel.Item>

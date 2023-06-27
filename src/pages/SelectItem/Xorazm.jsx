@@ -22,7 +22,7 @@ const Xorazm = () => {
                             Xorazm hududi qadimda Amudaryo adoqlaridan janubga tomon Murgʻob va Tajan daryolarining yuqori oqimlarigacha choʻzilgan.</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/xorazm_video.mov" autoPlay loop muted />
+                        <video src="./videos/xorazm_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Xorazm = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/xoramz/xorazm-1.jpg"
+                        src="./bottomSliderImg/xoramz/xorazm-1.jpg"
                         alt="First slide"
                     />
 
@@ -56,14 +56,14 @@ const Xorazm = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/xoramz/xorazm-2.jpg"
+                        src="./bottomSliderImg/xoramz/xorazm-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/xoramz/xorazm-3.jpg"
+                        src="./bottomSliderImg/xoramz/xorazm-3.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -71,7 +71,7 @@ const Xorazm = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/xoramz/xorazm-4.jpg"
+                        src="./bottomSliderImg/xoramz/xorazm-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

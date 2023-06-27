@@ -21,7 +21,7 @@ const Jizzax = () => {
                         <p><b>Jizzax viloyati </b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. Respublikaning markaziy qismida. 1960-yil 28-dekabrda tashkil etilgan. Shim.-sharqda Qozogʻiston Respublikasi va Sirdaryo viloyati, janubi-gʻarbda Samarqand, Navoiy viloyatlari, janubisharqda Tojikiston Respublikasi bilan chegaradosh. Maydon 21,2 ming km2. Aholisi 3,920 mln kishi (2022). Jizzax viloyatida 12 tumani Arnasoy, Baxmal, Doʻstlik, Sharof Rashidov, Zarbdor, Zafarobod, Zomin, Mirzachoʻl, Paxtakor, Yangiobod, Forish, Gʻallaorol, 20 shahar (Gagarin, Dashtobod, Doʻstlik, Jizzax, Marjonbuloq, Paxtakor, Gʻallaorol,Zarbdor,Zomin,Boʻston, Zafarobod, Oʻsmat, Uchquloch, Bogʻdon,Pishagʻar,Qoʻytosh,Sharq yulduzi, Arnasoy), 230 qishloq fuqarolari yigʻini bor (2022). Markazi — Jizzax shahri (Jizzax viloyati tumanlari haqida tegishli maqolalarga q.)</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/jizzax_video.mov" autoPlay loop muted />
+                        <video src="./videos/jizzax_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Jizzax = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/jizzax/jizzax-4.jpg"
+                        src="./bottomSliderImg/jizzax/jizzax-4.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Jizzax = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/jizzax/jizzax-3.jpg"
+                        src="./bottomSliderImg/jizzax/jizzax-3.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/jizzax/jizzax-2.jpeg"
+                        src="./bottomSliderImg/jizzax/jizzax-2.jpeg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Jizzax = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/jizzax/jizzax-1.jpg"
+                        src="./bottomSliderImg/jizzax/jizzax-1.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

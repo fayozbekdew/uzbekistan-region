@@ -22,7 +22,7 @@ const Buxoro = () => {
                         <p><b>Buxoro</b> — Oʻzbekiston Respublikasining qadimiy shaharlaridan biri, Buxoro viloyatining maʼmuriy, iqtisodiy va madaniy markazi. O'zbekistonning ilk poytaxti. Buyuk ipаk yoʻlidagi yirik tijorat markazlaridan boʻlgan. Oʻzbekistonning janubiy-gʻarbida, Zarafshon daryosi quyi oqimida joylashgan. Toshkentdan 616 km. Buxoro 2 ta shahar rayoni (Fayzulla Xoʻjayev va Toʻqimachilik)ga boʻlingan. Aholisi 290000 (2019). Aholisining katta qismini o'zbeklar tashkil etadi.</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/buxoro_video.mov" autoPlay loop muted />
+                        <video src="./videos/buxoro_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Buxoro = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/buxoro/buxoro-minora.jpg"
+                        src="./bottomSliderImg/buxoro/buxoro-minora.jpg"
                         alt="First slide"
                     />
 
@@ -56,14 +56,14 @@ const Buxoro = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/buxoro/buxoro-2.jpg"
+                        src="./bottomSliderImg/buxoro/buxoro-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/buxoro/buxoro.jpg"
+                        src="./bottomSliderImg/buxoro/buxoro.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -71,7 +71,7 @@ const Buxoro = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/buxoro/nasriddin.jpg"
+                        src="./bottomSliderImg/buxoro/nasriddin.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

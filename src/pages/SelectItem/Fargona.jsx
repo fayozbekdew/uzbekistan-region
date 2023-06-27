@@ -22,7 +22,7 @@ const Fargona = () => {
                         <p><b>Fargʻona</b> (1907-yilgacha — Yangi Margʻilon; 1907—1924-yillarda Skobelev, mahalliy talaffuzda — Iskobil deb atalgan. Podsho Rossiyasining Oʻrta Osiyoni bosib olishda va keyingi yillarda koʻplab qirgʻinbarotlar uyushtirgan generali M. D. Skobelev nomiga qoʻyilgan) — Fargʻona viloyatining maʼmuriy, iktisodiy va madaniy markazi, respublikaning yirik shaharlaridan biri. Maydoni 0,09 ming km². Aholisi 222,4 ming kishi (2004, Fargʻona vodiysidagi shaharlar ichida aholi soni boʻyicha 3-oʻrinda). Shahar Fargʻona vodiysining jan. qismida, Olay togʻlarining etagida, 580 m balandlikda joylashgan. Iklimi kontinental. Oʻrtacha yillik temperatura 13°. Yanvarning oʻrtacha tempaturasi —2,7°, iyulniki 26,4°. Eng past temperatura 27°, eng yuqori temperatura 42°. Yiliga 192 mm yogʻin tushadi. Yogʻinning koʻp qismi qish va bahor fasllarida yogʻadi. Gʻarbdan baʼzan qattiq shamol va garmsel, Olay togʻi (Shohimardonsoy vodiysi)dan togʻvodiy shamoli esadi.</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/fergana_video.mov" autoPlay loop muted />
+                        <video src="./videos/fergana_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Fargona = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/fergana/kirish.jpg"
+                        src="./bottomSliderImg/fergana/kirish.jpg"
                         alt="First slide"
                     />
 
@@ -56,14 +56,14 @@ const Fargona = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/fergana/fargoniy.jpg"
+                        src="./bottomSliderImg/fergana/fargoniy.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/fergana/shohimardon.jpg"
+                        src="./bottomSliderImg/fergana/shohimardon.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -71,7 +71,7 @@ const Fargona = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/fergana/sport.jpg"
+                        src="./bottomSliderImg/fergana/sport.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

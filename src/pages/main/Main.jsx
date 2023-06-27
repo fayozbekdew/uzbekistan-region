@@ -32,7 +32,7 @@ const Main = () => {
       </section>
       <hr className="site-hr" />
       <section  className="relyef__map">
-        <img className='hildshade__img' src="../../../public/images/relyef-map.webp" alt="hillshade-map" />
+        <img className='hildshade__img' src="./images/relyef-map.webp" alt="hillshade-map" />
         <h1 className="satelite__title">
           Balandlik ma'lumotlari
         </h1>
@@ -43,7 +43,7 @@ const Main = () => {
         <div className="google-maps">
           <h1>Googledan ko`rish</h1>
           <a target="_blank" href="https://www.google.com/maps/place/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/@41.381166,64.608575,6z/data=!3m1!4b1!4m6!3m5!1s0x38ae8b20a5d676b1:0xca0a6dad7e841e20!8m2!3d41.377491!4d64.585262!16zL20vMDd0X3g">
-          <img src="../../../public/images/google-maps.png" alt="google-maps" width={100} height={100} />
+          <img src="./images/google-maps.png" alt="google-maps" width={100} height={100} />
         </a>
         </div>
     </div>

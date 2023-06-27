@@ -21,7 +21,7 @@ const Qoraqalpogiston = () => {
                         <p><b>Qoraqalpogʻiston</b> — Oʻzbekiston Respublikasi tarkibidagi respublika. Maydoni 166,6 ming km². Aholisi 2 millionga yaqin (2022). Respublika poytaxti — Nukus shahri. Tarkibida 16 tuman, 12 shahar, 14 shaharcha va 124 fuqarolar yigʻini bo</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/qoraqalpogiston.mov" autoPlay loop muted />
+                        <video src="./videos/qoraqalpogiston.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Qoraqalpogiston = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston-4.jpg"
+                        src="./bottomSliderImg/qoraqalpogiston/qoraqalpogiston-4.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Qoraqalpogiston = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston-3.jpg"
+                        src="./bottomSliderImg/qoraqalpogiston/qoraqalpogiston-3.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="./public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston-2.jpg"
+                        src="./bottomSliderImg/qoraqalpogiston/qoraqalpogiston-2.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Qoraqalpogiston = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="./public/bottomSliderImg/qoraqalpogiston/qoraqalpogiston.jpg"
+                        src="./bottomSliderImg/qoraqalpogiston/qoraqalpogiston.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>

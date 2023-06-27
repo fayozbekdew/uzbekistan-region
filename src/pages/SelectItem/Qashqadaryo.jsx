@@ -21,7 +21,7 @@ const Qashqadaryo = () => {
                         <p> <b>Qashqadaryo viloyati</b> — Oʻzbekiston Respublikasi tarkibidagi viloyat. 1924-yil 1-noyabrda tashkil etilgan. Respublikaning janubi-gʻarbida, Qashqadaryo havzasida, Pomir-Oloy togʻ tizmasining gʻarbiy chekkasida, Amudaryo va Zarafshon daryolari, Hisor va Zarafshon tizma togʻlari orasida. Shimoli-gʻarbdan Buxoro va janubi-sharqdan Surxondaryo viloyatlari, janubi-gʻarb va gʻarbdan Turkmaniston Respublikasi, sharqdan Tojikiston Respublikasi hamda Samarqand viloyati bilan chegaradosh. Maydoni 28,6 ming km². Aholisi 3,408,300 kishi (3-oʻrin) (2022). Viloyat hokimi Murotjon Azimov (2021-yil 18-noyabrdan) Tarkibida 14 tumani (Dehqonobod, Kasbi, Kitob, Koson, Koʻkdala tumani), Mirishkor, Muborak, Nishon, Qamashi, Qarshi, Yakkabogʻ, Gʻuzor, Shahrisabz, Chiroqchi, 12 shahar (Beshkent, Kitob, Koson, Muborak, Tallimarjon, Chiroqchi, Shahrisabz, Yakkabogʻ, Yangi Nishon, Qamashi, Qarshi, Gʻuzor), 4 shaharcha (Yangi Mirishkor,Dehqonobod, Miroqi, Eski Yakkabogʻ, Pomuq), 147 qishloq fuqarolari yigʻini, 1064 qishloq bor</p>
                     </div>
                     <div className="cities_info_bac">
-                        <video src="../../../public/videos/qashqadaryo_video.mov" autoPlay loop muted />
+                        <video src="./videos/qashqadaryo_video.mov" autoPlay loop muted />
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Qashqadaryo = () => {
                 <Carousel.Item interval={1000}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qashqadaryo/qashqadarryo-1.jpg"
+                        src="./bottomSliderImg/qashqadaryo/qashqadarryo-1.jpg"
                         alt="First slide"
                     />
 
@@ -55,14 +55,14 @@ const Qashqadaryo = () => {
                 <Carousel.Item interval={500}>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qashqadaryo/qashqadarryo-2.jpg"
+                        src="./bottomSliderImg/qashqadaryo/qashqadarryo-2.jpg"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qashqadaryo/qashqadarryo-4.jpg"
+                        src="./bottomSliderImg/qashqadaryo/qashqadarryo-4.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -70,7 +70,7 @@ const Qashqadaryo = () => {
                 <Carousel.Item>
                     <img style={{ height: 500 }}
                         className="d-block w-100"
-                        src="../../../public/bottomSliderImg/qashqadaryo/qashqadarryo-3.jpg"
+                        src="./bottomSliderImg/qashqadaryo/qashqadarryo-3.jpg"
                         alt="Third slide"
                     />
                 </Carousel.Item>
