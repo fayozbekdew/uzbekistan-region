@@ -19,7 +19,7 @@ const Sliderr = () => {
                     <h4>All</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -28,7 +28,7 @@ const Sliderr = () => {
                     <h4>Namangan</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -37,7 +37,7 @@ const Sliderr = () => {
                     <h4>Fargona</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -46,7 +46,7 @@ const Sliderr = () => {
                     <h4>Andijon</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -55,7 +55,7 @@ const Sliderr = () => {
                     <h4>Toshkent</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -64,7 +64,7 @@ const Sliderr = () => {
                     <h4>Samarqand</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -73,7 +73,7 @@ const Sliderr = () => {
                     <h4>Jizzax</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -82,7 +82,7 @@ const Sliderr = () => {
                     <h4>Buxoro</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -91,7 +91,7 @@ const Sliderr = () => {
                     <h4>Surxondaryo</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -100,7 +100,7 @@ const Sliderr = () => {
                     <h4>Qashqadaryo</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -109,7 +109,7 @@ const Sliderr = () => {
                     <h4>Sirdaryo</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -118,7 +118,7 @@ const Sliderr = () => {
                     <h4>Xorazm</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
@@ -127,7 +127,7 @@ const Sliderr = () => {
                     <h4>Qoraqalpog`iston</h4>
                     <div className="btn-read">
                     <button>Read More</button>
-                    <img src="../../../public/images/right-arrow.png" alt="right-arrow" height={20} width={30} />
+                    <img src="./images/right-arrow.png" alt="right-arrow" height={20} width={30} />
                     </div>
                 </Link>
             </SwiperSlide>
