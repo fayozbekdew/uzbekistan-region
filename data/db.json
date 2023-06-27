@@ -9,7 +9,7 @@
             "dencity":"170/",
             "since":"1952",
             "area": 741,
-            "img": "../public/images/region/namangan_mingbuloq.png",
+            "img": "./images/region/namangan_mingbuloq.png",
             "info": "Tuman 7 ta shahar tipidagi aholi punkti ( Jo'masho'y , Go'rtepa , Dovduq , O'zgarish , Mehnatobod , Madyarovul , Qo'g'oliqul ) va 7 ta qishloq fuqarolar  iborat."
         },
         {
@@ -21,7 +21,7 @@
             "dencity":"290/",
             "since":"1938 ",
             "area": 937 ,
-            "img": "../public/images/region/namangan_chust.png",
+            "img": "./images/region/namangan_chust.png",
             "info": "Tuman bir shahar ( Chust ), 11 shahar tipidagi aholi punkti (Olmos, Axcha, Sarimsoqtepa, Varzik, Qoraqo'rg'on, G'ova, Karkidon, Karnon, Yorqishloq, Shoyon, Xisorak) va 11 qishloq fuqarolar yig'inidan iborat"
         },
         {
@@ -33,7 +33,7 @@
             "dencity":"540/",
             "since":"1950",
             "area": 377 ,
-            "img": "../public/images/region/namangan_chortoq.png",
+            "img": "./images/region/namangan_chortoq.png",
             "info": "Tuman bir shahar ( Chortoq ), 12 shahar tipidagi aholi punkti (Muchum, Koroskon, Ko'shon, Ayqiron, Alixon, Pastki Peshqo'rg'on, Yuqori Peshqo'rg'on, O'ra ariq, Baliqli ko'l, Xazratishox ) va 9 qishloq fuqarolar yig'inidan iborat."
         },
         {
@@ -45,7 +45,7 @@
             "dencity":"410/",
             "since":"1926 ",
             "area": 517 ,
-            "img": "../public/images/region/namangan_kosonsoy.png",
+            "img": "./images/region/namangan_kosonsoy.png",
             "info": "Tuman bir shahar ( Kosonsoy ), 10 shahar tipidagi aholi punkti (Bog'ishamol, Istiqlol, Koson, Ququmboy, Ozod, Terg'achi, Chindavul, Chust kocha, Yangiyo'l, Yangi shahar) va 7 qishloq fuqarolar yig'inidan iboratt"
         },
         {
@@ -57,7 +57,7 @@
             "dencity":"890/",
             "since":"1926 ",
             "area": 203,
-            "img": "../public/images/region/namangan_namangan_tumani.png",
+            "img": "./images/region/namangan_namangan_tumani.png",
             "info": "Tuman 5 ta shahar tipidagi aholi punkti ( Toshbuloq , Navbahor, Qumqoʻrgʻon, Shoʻrqoʻrgʻon, Mirishkor) va 10 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -69,7 +69,7 @@
             "dencity":"800/",
             "since":"1926 ",
             "area": 207 ,
-            "img": "../public/images/region/namangan_norin.png",
+            "img": "./images/region/namangan_norin.png",
             "info": "Tuman bir shahar ( Haqqulobod ), 8 shahar tipidagi aholi punkti (Qorateri, Marg'uzar, Norinkapa, Pastki cho'ja, Uchtepa, Xo'jaobod, Chambil, Sho'ra) va 8 qishloq fuqarolar yig'inidan iborat"
         },
         {
@@ -81,7 +81,7 @@
             "dencity":"77/",
             "since":"1926 ",
             "area": "2 910",
-            "img": "../public/images/region/namangan_pop.png",
+            "img": "./images/region/namangan_pop.png",
             "info": "Tuman tarkibiga bitta shahar ( Pop ), 15 shahar tipidagi aholi punktlari ( Oltinkon , Navbahor , Uygʻursoy , Xalqobod , Chorkesar , Uyg'ur, Yangi Xo'jaobod, Sang, G'urumsaroy, Qandigʻon, Pungon, Chodak, Madaniyat, Qoʻrgʻonobod, Chorkes) kiradi. 10 ta qishloq jamoalari"
         },
         {
@@ -93,7 +93,7 @@
             "dencity":"840/",
             "since":"1936 ",
             "area": "273",
-            "img": "../public/images/region/namangan_toraqorgon.png",
+            "img": "./images/region/namangan_toraqorgon.png",
             "info": "Tuman bir shahar ( Toʻraqoʻrgʻon ), 13 shahar tipidagi aholi punkti ( Oqtosh , Yettikon, Yandama, Axsi, Kalvak, Mozorkoʻxna, Buramatut, Shaxand, Olchin, Saroy, Katagon, Kichikqurama, Namdon) va 8 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -105,7 +105,7 @@
             "dencity":"580/",
             "since":"1935 ",
             "area": "300",
-            "img": "../public/images/region/namangan_uchqorgon.png",
+            "img": "./images/region/namangan_uchqorgon.png",
             "info": "Tuman bir shahar ( Uchqoʻrgʻon ), 4 shahar tipidagi aholi punkti (Qayqi, Qoʻgʻay, Uchyogʻoch, Yangiobod) va 8 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -117,7 +117,7 @@
             "dencity":"",
             "since":"1935 ",
             "area": "304",
-            "img": "../public/images/region/namangan_uychi.png",
+            "img": "./images/region/namangan_uychi.png",
             "info": "Tuman 13 ta shahar tipidagi aholi punkti ( Uychi , Oʻnhayot , Birlashgan, Fayziobod, Churtuk, Axsi, Jiydakapa, Kichik toshloq, Mashad, Soʻku, Boyogʻon, Gʻayrat, Ziyokor) va 8 ta qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -129,7 +129,7 @@
             "dencity":"420/",
             "since":"1926 ",
             "area": "525",
-            "img": "../public/images/region/namangan_yangiqorgon.png",
+            "img": "./images/region/namangan_yangiqorgon.png",
             "info": "Tuman tarkibiga 19 shahar tipidagi aholi punktlari ( Yangiqoʻrgʻon , Bekobod, Gʻovazon, Zarkent, Iskavot, Kalishoh, Qizil qiyoq, Qorayantoq, Qorapolvon, Qorachashoʻrkent, Koʻkyor, Navkent, Nanay, Poromon, Rovot, Sangiston, Salmon, Poromon, Rovot, Sangʻiston, Salmon, Yumaloq, Xoʻmaloq) kiradi. 11 qishloq jamoalari"
         },
         {
@@ -141,7 +141,7 @@
             "dencity":"740/",
             "since":"1926 ",
             "area": "370",
-            "img": "../public/images/region/andijon_andijon_tuman.png",
+            "img": "./images/region/andijon_andijon_tuman.png",
             "info": "Tuman 19 ta shahar tipidagi posyolka va 9 ta qishloq fuqarolar yigʻinidan iborat. Shahar tipidagi aholi punktlari: Kuyganyor , Ayrilish, Butaqora, Guliston, Gumbaz, Zavroq, Qoraqalpoq, Kunji, Qoʻshariq, Namuna, Oʻgʻullik, Oq-yor, Rovvot, Xartum, Chilon, Chumbogʻich, Ekin tikin, Yangiobod, Gulobod"
         },
         {
@@ -153,7 +153,7 @@
             "dencity":"1 300/",
             "since":"1926 ",
             "area": "270",
-            "img": "../public/images/region/andijon_asaka.png",
+            "img": "./images/region/andijon_asaka.png",
             "info": "Tuman 1 shahar (Asaka), 4 shahar tipidagi posyolka (Kujgon, Navkon, Oqboʻyra va T.Aliyev) va 8 qishloq fuqarolar yigʻinidan iborat.Asaka o'zining transport vositalari, o'tmishdagi otlari va bugungi kunda GM Uzbekistan (tuman markazida joylashgan avtomobil ishlab chiqarish zavodi) ishlab chiqarayotgan avtomobillari bilan doimo e'tiborda bo'lgan. Darhaqiqat, shahar xalq afsonasiga ko'ra, mahalliy mustangerga tegishli bo'lgan go'zal ot sharafiga nomlangan."
         },
         {
@@ -165,7 +165,7 @@
             "dencity":"610/",
             "since":"1926 ",
             "area": "340",
-            "img": "../public/images/region/andijon_baliqchi.png",
+            "img": "./images/region/andijon_baliqchi.png",
             "info": "Tuman tarkibiga uchta shahar tipidagi aholi punkti ( Baliqchi , Xoʻjaobod va Chinobod ) va toʻqqizta qishloq fuqarolar yigʻini (60 ta qishloq) kiradi:"
         },
         {
@@ -177,7 +177,7 @@
             "dencity":"370/",
             "since":"1950 ",
             "area": "200",
-            "img": "../public/images/region/andijon_boz.png",
+            "img": "./images/region/andijon_boz.png",
             "info": "Tuman 3 ta shahar tipidagi posyolka ( Boʻz , Jalolov va Xoldevonbek) va 3 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -189,7 +189,7 @@
             "dencity":"820/",
             "since":"1992 ",
             "area": "180",
-            "img": "../public/images/region/andijon_buloqboshi.png",
+            "img": "./images/region/andijon_buloqboshi.png",
             "info": "Tuman 4 ta shahar tipidagi aholi punkti ( Buloqboshi , Andijon , Uchtepa va Shirmonbuloq) va 5 ta qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -201,7 +201,7 @@
             "dencity":"880/",
             "since":"1926 ",
             "area": "280",
-            "img": "../public/images/region/andijon_izboskan.png",
+            "img": "./images/region/andijon_izboskan.png",
             "info": "Tuman 1 shahar (Paytugʻ), 4 shahar tipidagi posyolka (Gurkirov, Maygir, Toʻrtkoʻl va Uzun koʻcha) va 9 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -213,7 +213,7 @@
             "dencity":"520/",
             "since":"1926 ",
             "area": "370",
-            "img": "../public/images/region/andijon_jalaquduq.png",
+            "img": "./images/region/andijon_jalaquduq.png",
             "info": "Tuman 1 shahar (Jalaquduq), 7 shahar tipidagi aholi punkti ( Janubiy Olamushuk , Beshtol, Yorqishloq , Jalaquduq, Koʻkalam, Qoʻshtepa va Oyim ) va 8 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -225,7 +225,7 @@
             "dencity":"500/",
             "since":"1926 ",
             "area": "230",
-            "img": "../public/images/region/andijon_xojaobod.png",
+            "img": "./images/region/andijon_xojaobod.png",
             "info": "Tuman 1 shahar (Xoʻjaobod), 5 shahar tipidagi aholi punkti (Guliston, Dilkushod, Koʻtarma, Manak va Xidirsha ) va 4 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -237,7 +237,7 @@
             "dencity":"460/",
             "since":"1926 ",
             "area": "480",
-            "img": "../public/images/region/andijon_qorgontepa.png",
+            "img": "./images/region/andijon_qorgontepa.png",
             "info": "Tuman ikki shahar ( Qoʻrgʻontepa va Qorasuv ), bitta shahar tipidagi posyolka ( Sultonobod ) va beshta qishloq kengashidan (Chimyon, Dardoq , Qoʻrgʻontepa, Savay va Sultonobod) iborat. "
         },
         {
@@ -249,7 +249,7 @@
             "dencity":"560/",
             "since":"1926 ",
             "area": "320",
-            "img": "../public/images/region/andijon_marhamat.png",
+            "img": "./images/region/andijon_marhamat.png",
             "info": "Tuman 1 shahar (Marhamat), 10 shahar tipidagi aholi punkti ( Polvontosh , Boboxuroson, Qorabogʻish, Qoraqoʻrgʻon, Koʻtarma, Marxamat, Rovot, Oʻqchi, Xakka va Xoʻjaariq) va 5 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -261,7 +261,7 @@
             "dencity":"880/",
             "since":"1939 ",
             "area": "210",
-            "img": "../public/images/region/andijon_oltinkol.png",
+            "img": "./images/region/andijon_oltinkol.png",
             "info": " Andijon viloyatining markaziy qismida joylashgan. Relyef pasttekislik va adirlar bilan ifodalangan. Iqlimi subtropik baland togʻli boʻlib, iyulning oʻrtacha harorati 25-28 ˚ C, fevralning oʻrtacha harorati -5 - -7 ˚ C. [5] Baʼzan yozda havo harorati 43 ˚ C ga etadi va qishda -18 ° C gacha. Vegetatsiya davri 160 - 180 kun, oʻrtacha yillik yogʻin miqdori 225 mm gacha. [5] Yovvoyi hayvonlar kam uchraydi, lekin kemiruvchilar, sudralib yuruvchilar va qushlar bor"
         },
         {
@@ -273,7 +273,7 @@
             "dencity":"770/",
             "since":"1926 ",
             "area": "260",
-            "img": "../public/images/region/andijon_paxtaobod.png",
+            "img": "./images/region/andijon_paxtaobod.png",
             "info": "Tuman 1 shahar (Paxtaobod), 3 shahar tipidagi posyolka (Doʻstlik, Izboskan va Pushmon) va 4 qishloq fuqarolar yigʻinidan iborat.Tuman Sovet davrida va Sovet davrida Qo'qonqishloq deb atalgan . Bu hududda yashovchi odamlar bir vaqtlar Qoʻqondan (Qoʻqon) kelib chiqqan, shuning uchun u Qoʻqonqishloq deb atalib, toʻgʻridan-toʻgʻri “Qoʻqonliklarning qishlogʻi” degan maʼnoni anglatadi."
         },
         {
@@ -285,7 +285,7 @@
             "dencity":"1 110/",
             "since":"1926 ",
             "area": "290",
-            "img": "../public/images/region/andijon_shahrihon.png",
+            "img": "./images/region/andijon_shahrihon.png",
             "info": "Tuman 1 shahar (Shahrixon), 3 shahar tipidagi aholi punkti ( Voxim , Choʻja va Segazaqum ) va 12 qishloq fuqarolar yigʻinidan (jumladan Nazarmaxram ) iborat"
         },
         {
@@ -297,7 +297,7 @@
             "dencity":"150/",
             "since":"1973 ",
             "area": "420",
-            "img": "../public/images/region/andijon_ulugnor.png",
+            "img": "./images/region/andijon_ulugnor.png",
             "info": "Tuman 1 shahar tipidagi posyolka (Oqoltin) va 4 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -309,7 +309,7 @@
             "dencity":"350/",
             "since":"1926 ",
             "area": "630",
-            "img": "../public/images/region/fergana_oltiariq.png",
+            "img": "./images/region/fergana_oltiariq.png",
             "info": "Tuman bir shahar ( Tinchlik ), 14 shahar tipidagi aholi punktlaridan ( Oltiariq , Chinor , Azimobod, Boʻrbaliq , Djurek, Zilxa , Katput , Oqboʻyra, Povulgʻon, Poloson, Chordara,Eskiarab , Yangiarab, Yangiqoʻrgʻon) va 15 qishloq fuqarolar yigʻini."
         },
         {
@@ -321,7 +321,7 @@
             "dencity":"680/",
             "since":"1926 ",
             "area": "330",
-            "img": "../public/images/region/fergana_bagdod.png",
+            "img": "./images/region/fergana_bagdod.png",
             "info": "Tuman 21 shahar tipidagi aholi punktlaridan iborat ( Bagʻdod , Amirobod , Maylavoy , Oltin vodiy , Bogʻishamol ) , Bordon, Doʻrmoncha, Irgali, Qaroqchitol, Kaxat , Qirqboldi, Konizar, Qoʻshtegirmon, Matqulobod, Mirzaobod, Samandarak, Samarqand, Oʻltarma,Xusnobod , Chekmirzaobod, Churindi) va 10 ta qishloq fuqarolar yigʻini"
         },
         {
@@ -333,7 +333,7 @@
             "dencity":"300/",
             "since":"1926 ",
             "area": "770",
-            "img": "../public/images/region/fergana_beshariq.png",
+            "img": "./images/region/fergana_beshariq.png",
             "info": "Tuman bir shahar ( Beshariq ), 10 ta shahar tipidagi aholi punktlaridan (Nafosat, Zarqaynar, Kapayangi, Qumqishloq, Oqtovuq, Rapqon, Tovul, Uzun, Chimboy, Manguobod) va 9 qishloq fuqarolar yigʻini."
         },
         {
@@ -345,7 +345,7 @@
             "dencity":"840/",
             "since":"1926 ",
             "area": "280",
-            "img": "../public/images/region/fergana_buvayda.png",
+            "img": "./images/region/fergana_buvayda.png",
             "info": "Tuman 10 ta shahar tipidagi aholi punktlaridan iborat ( Ibrat , Yuqori Baxqir, Quyi Bachqir, Chinobod, Buvayda, Zarbuloq, Qum, Yuqori Nayman, Oqqoʻrgʻon, Quyi Urganji) va 11 qishloq fuqarolar yigʻini.t"
         },
         {
@@ -357,7 +357,7 @@
             "dencity":"420/",
             "since":"1939 ",
             "area": "430",
-            "img": "../public/images/region/fergana_dangara.png",
+            "img": "./images/region/fergana_dangara.png",
             "info": "Tuman 9 ta shahar tipidagi aholi punktlaridan iborat ( Dangʻara , Doimobod , Katta Ganjiravon , Katta Turk, Qum qiyoli, Toptiqsaroy, Tumor, Yuqori Urganji, Yangi zamon) va 8 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -369,7 +369,7 @@
             "dencity":"360/",
             "since":"1926 ",
             "area": "610",
-            "img": "../public/images/region/fergana_fergana.png",
+            "img": "./images/region/fergana_fergana.png",
             "info": "Tuman tarkibiga 21 shahar tipidagi aholi punktlari ( Chimyon , Avval, Archa, Vodil , Yuqori Vodil, Damkoʻl, Yoshlarobod, Qoʻrgʻontepa, Langar, Logʻon, Mindon, Novkent, Yuqori Oqtepa , Parvoz, Yuqori Soyboʻyi, Bahor , Xonqiz , Neftchilar ) kiradi. , Shoximardonobod, Yuqori Mindon) va 16 qishloq fuqarolar yigʻini (Avval, Gulshan, Qoʻrgʻontepa, Soy boʻyi, Logʻon, Mindon, Navkat, Qaptarxona, Shohimardon, Parvoz, Chimyon , Damkoʻl, Xonqiz, Oqbilol, Yuqori Vodil, Vodil)"
         },
         {
@@ -381,7 +381,7 @@
             "dencity":"390/",
             "since":"1992",
             "area": "310",
-            "img": "../public/images/region/fergana_furqat.png",
+            "img": "./images/region/fergana_furqat.png",
             "info": "Tuman 8 ta shahar tipidagi aholi punktlaridan ( Navbahor , Kaldoʻshon, Qoʻqonboy, Tomosha, Chek chuvaldak) iborat. , Shoyinbek, Eski, Eshon) va 6 qishloq fuqarolar yigʻini"
         },
         {
@@ -393,7 +393,7 @@
             "dencity":"540/",
             "since":"1926 ",
             "area": "370",
-            "img": "../public/images/region/fergana_qoshtepa.png",
+            "img": "./images/region/fergana_qoshtepa.png",
             "info": "Tuman 14 shahar tipidagi aholi punktlaridan (Boltakoʻl, Gʻishtmon, Doʻrmon, Katta Beshkapa, Qizil) iborat. ariq, Qorajiyda, Qoraqaltoq, Qumtepa, Quyi Oqtepa, Sarmozor, Xotinariq, Shahartepa, Eshonguzar, Yangiariq) va 15 qishloq fuqarolar yigʻini (jumladan Langar )"
         },
         {
@@ -405,7 +405,7 @@
             "dencity":"600/",
             "since":"1926 ",
             "area": "440",
-            "img": "../public/images/region/fergana_quva.png",
+            "img": "./images/region/fergana_quva.png",
             "info": "Tuman bir shahar ( Quva ), 15 shahar tipidagi aholi punktlaridan (Sanoatchilar, Guliston, Damariq, Jalayer, Qayirma, Qaqir, Qandabuloq, Qorashox, Mustaqillik, Oltinariq, Pastki Xoʻja Xasan, Tolmozor, Turk, Oʻzbek, Yuziya) va 11 qishloq fuqarolar yigʻini."
         },
         {
@@ -417,7 +417,7 @@
             "dencity":"670/",
             "since":"1926 ",
             "area": "310",
-            "img": "../public/images/region/fergana_rishton.png",
+            "img": "./images/region/fergana_rishton.png",
             "info": " Tuman bir shahar ( Rishton ), 13 shahar tipidagi aholi punktlaridan (Avazboy, Beshkapa , , ) iborat. Bujay , Boʻston, Doʻtir, Saxovat, Zoxidon, Qayragʻoch, Oq-yer, Pandigon , Toʻda, Oʻyrat, Xurramobod ) va 11 qishloq fuqarolar yigʻini."
         },
         {
@@ -429,7 +429,7 @@
             "dencity":"370/",
             "since":"1942 ",
             "area": "220",
-            "img": "../public/images/region/fergana_sox.png",
+            "img": "./images/region/fergana_sox.png",
             "info": "Tuman yettita shahar tipidagi aholi punkti ( Ravon , Qalʻa, Sariqanda , Soʻx, Tul, Hushyor, Tarovatli) va toʻrtta qishloq fuqarolar yigʻinidan (Sohibkor, Ravon, Soʻx, Hushyor) iborat. [1] Tumandagi yana bir qishloq - Limbur"
         },
         {
@@ -441,7 +441,7 @@
             "dencity":"870/",
             "since":"1935 ",
             "area": "240",
-            "img": "../public/images/region/fergana_toshloq.png",
+            "img": "./images/region/fergana_toshloq.png",
             "info": " Tuman 10 ta shahar tipidagi aholi punktlaridan iborat ( Toshloq , Arabmozor, Axshak, Varzak, Zarkent, Qumariq, Quyi Nayman, Sadda, Turvat, Yakkatut) va 10 qishloq fuqarolar yigʻini."
         },
         {
@@ -453,7 +453,7 @@
             "dencity":"850/",
             "since":"1926 ",
             "area": "280",
-            "img": "../public/images/region/fergana_uchkoprik.png",
+            "img": "./images/region/fergana_uchkoprik.png",
             "info": "Tuman 11 shahar tipidagi aholi punktlaridan ( Uchkoʻprik , Begobod , Gʻijdon, Katta Qashqar, Qumariqobod ) iborat. , Bogʻiboʻston , Mirzaxoʻja, Palaxon, Sobirjon, Turgʻoq, Yangiqishloq) va 9 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -465,7 +465,7 @@
             "dencity":"360/",
             "since":"1926 ",
             "area": "690",
-            "img": "../public/images/region/fergana_ozbekiston.png",
+            "img": "./images/region/fergana_ozbekiston.png",
             "info": "Tuman bir shahar ( Yaypan ), 22 shahar tipidagi aholi punktlaridan ( Shoʻrsuv , Avgʻon , Dahana Qaqir, Islom , Katta Tagob, Qizil Qaqir, Kichik Tagob, Sardoba, Qudash, Kul elash, Qulibek, Qumbosti, Qoʻshqoʻnoq, Qoʻrgʻoncha, Nursux, Ovchi, Oyimcha Qaqir, Oqmachit, Oxta Tagob, Oʻqchi Dasht, Oʻqchi Rajabgardi, Iftixor) va 10 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -477,7 +477,7 @@
             "dencity":"280/",
             "since":"1926 ",
             "area": "410",
-            "img": "../public/images/region/fergana_yozyovon.png",
+            "img": "./images/region/fergana_yozyovon.png",
             "info": " Tuman 9 shahar tipidagi aholi punktlaridan iborat ( Yozyovon , Yozyovon chek, Yoʻldoshobod , Qorasoqol , Qoratepa ). , Kelajak, Quyi Soyboʻyi, Toshxovuz, Xonobod) va 10 ta qishloq fuqarolar yigʻini (Guliston, Qatortol, Qoratepa, Xonobod, Istiqlol, Yozyovon, Yangiobod, Ishtirxon, Qorasoqol, Yangiboʻston)."
         },
         {
@@ -489,7 +489,7 @@
             "dencity":"94/",
             "since":"1975 ",
             "area": "490",
-            "img": "../public/images/region/jizzax_arnasoy.png",
+            "img": "./images/region/jizzax_arnasoy.png",
             "info": "Tuman ikki shahar tipidagi aholi punkti ( Gʻoliblar , Gulbahor) va 6 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -501,7 +501,7 @@
             "dencity":"85/",
             "since":"1970 ",
             "area": "1860",
-            "img": "../public/images/region/jizzax_baxmal.png",
+            "img": "./images/region/jizzax_baxmal.png",
             "info": "Tuman 7 ta shahar tipidagi posyolka ( Oʻsmat , Oqtosh, Moʻgʻol, Novqa, Alamli, Tongotar, Baxmal) va 10 ta qishloq fuqarolar yigʻinidan iborat. "
         },
         {
@@ -513,7 +513,7 @@
             "dencity":"150/",
             "since":"1975 ",
             "area": "450",
-            "img": "../public/images/region/jizzax_dostlik.png",
+            "img": "./images/region/jizzax_dostlik.png",
             "info": "Tuman bir shahar ( Doʻstlik ), bitta shahar tipidagi posyolka (Navroʻz) va 7 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -525,7 +525,7 @@
             "dencity":"9,7/",
             "since":"1935 ",
             "area": "9 560",
-            "img": "../public/images/region/jizzax_forish.png",
+            "img": "./images/region/jizzax_forish.png",
             "info": "Tuman ikki shahar tipidagi aholi punkti ( Bogʻdon , Uchquloch ) va 10 qishloq fuqarolar yigʻinidan (Omonkeldi, Darvoza, Arnasoy, Qoraabdol, Egizbuloq, Qizilqum, Forish , Uxum, Garasha, Osmonsoy) iborat."
         },
         {
@@ -537,7 +537,7 @@
             "dencity":"89/",
             "since":"1926",
             "area": "1 950",
-            "img": "../public/images/region/jizzax_gallaorol.png",
+            "img": "./images/region/jizzax_gallaorol.png",
             "info": "Tuman tarkibiga bir shahar ( Gʻallaorol ), 6 shahar tipidagi aholi punkti ( Marjonbuloq , Qoʻytosh , Lalmikor , Qangliobod , Abdukarim , Chuvilloq ) va 14 qishloq fuqarolar yigʻini ( Gʻoʻbdin , Xonimqoʻrgʻon , Ittifoq , Koʻpchoʻqquloq , Koʻpchoʻqquloq , Koʻpchoʻqbuloq , Qishloq , Qishloq ) kiradi. , Guliston , Buloqboshi , Madaniyat , Mirzabuloq , Moltob , Tozaurugʻ, Mulkush )."
         },
         {
@@ -549,7 +549,7 @@
             "dencity":"170/",
             "since":"1926 ",
             "area": "1 320",
-            "img": "../public/images/region/jizzax_sharof.png",
+            "img": "./images/region/jizzax_sharof.png",
             "info": "Tuman 7 ta shahar tipidagi aholi punkti (Uchtepa, Gandumtosh, Qorayantoq, Qangʻli, Toʻqchiliq, Mulkanlik, Jizzaxlik) va 12 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -561,7 +561,7 @@
             "dencity":"110/",
             "since":"1967 ",
             "area": "480",
-            "img": "../public/images/region/jizzax_mirzachol.png",
+            "img": "./images/region/jizzax_mirzachol.png",
             "info": "Tuman bir shahar ( Gagarin ), 2 shahar tipidagi posyolka (Paxtazor, Mirzadala) va 6 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -573,7 +573,7 @@
             "dencity":"200/",
             "since":"1926 ",
             "area": "380",
-            "img": "../public/images/region/jizzax_paxtakor.png",
+            "img": "./images/region/jizzax_paxtakor.png",
             "info": "Tuman bir shahar ( Paxtakor ), bitta shahar tipidagi posyolka (Gulzor) va 7 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -585,7 +585,7 @@
             "dencity":"39/",
             "since":"1926 ",
             "area": "720",
-            "img": "../public/images/region/jizzax_yangiobod.png",
+            "img": "./images/region/jizzax_yangiobod.png",
             "info": "Tuman ikki shahar tipidagi aholi punkti (Yangiobod va Savot) va 5 qishloq fuqarolar yigʻinidan (Xovos, Sarmich , Xoʻjamushkent, Savot va Havotogʻ) iborat"
         },
         {
@@ -597,7 +597,7 @@
             "dencity":"62",
             "since":"1926 ",
             "area": "2 670",
-            "img": "../public/images/region/jizzax_zomin.png",
+            "img": "./images/region/jizzax_zomin.png",
             "info": "Tuman bir shahar ( Dashtobod ), 6 shahar tipidagi aholi punkti ( Zomin , Yom, Sirgʻali, Pshagʻor) va 9 ta qishloq fuqarolar yigʻinidan iborat. "
         },
         {
@@ -609,7 +609,7 @@
             "dencity":"96/",
             "since":"1973 ",
             "area": "520",
-            "img": "../public/images/region/jizzax_zafarobod.png",
+            "img": "./images/region/jizzax_zafarobod.png",
             "info": "Tuman 4 ta shahar tipidagi posyolka ( Zafarobod , Yorqin, Pistalikent, Nurafshon) va 6 ta qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -621,7 +621,7 @@
             "dencity":"120/",
             "since":"1979 ",
             "area": "710",
-            "img": "../public/images/region/jizzax_zarbdor.png",
+            "img": "./images/region/jizzax_zarbdor.png",
             "info": "Tuman 4 ta shahar tipidagi posyolka ( Zarbdor , Boʻston , Fayzobod, Sharq yulduzi) va 8 ta qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -633,7 +633,7 @@
             "dencity":"31/",
             "since":"1926 ",
             "area": "3 230",
-            "img": "../public/images/region/buxoro_olot.png",
+            "img": "./images/region/buxoro_olot.png",
             "info": "Tuman 1 shahar (Olot), 8 shahar tipidagi aholi punkti ( Ganchi Chandir , Kesakli , Qirtoy , Sola qorovul , Jayxunobod , Oʻzbekiston, Chovdur , Boʻribek Chandir ) va 10 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -645,7 +645,7 @@
             "dencity":"130/",
             "since":"1926",
             "area": "1 320",
-            "img": "../public/images/region/buxoro_buxoro.png",
+            "img": "./images/region/buxoro_buxoro.png",
             "info": "Tuman 1 shahar (Galaosiyo), 6 shahar tipidagi posyolka (Dexcha, Podshoyi, Rabotak, Oʻrta Novmetan, Xumini bolo, Arabxona) va 14 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -657,7 +657,7 @@
             "dencity":"81/",
             "since":"1926 ",
             "area": "3 840",
-            "img": "../public/images/region/buxoro_gijduvon.png",
+            "img": "./images/region/buxoro_gijduvon.png",
             "info": "Tuman 1 shahar (Gʻijduvon), 13 shahar tipidagi aholi punktlaridan ( Obodi , Beshtuvo , Gʻajdumak , Jovgari , Koʻlijabbor , Mazragan , Yuqori Rostgoʻy , Oʻzanon , Xatcha , Chagʻdari , Dodarak , Namatgaron 1 tumanlari ) va tumanlardan iborat."
         },
         {
@@ -669,7 +669,7 @@
             "dencity":"35/",
             "since":"1979 ",
             "area": "5 170",
-            "img": "../public/images/region/buxoro_jondor.png",
+            "img": "./images/region/buxoro_jondor.png",
             "info": "Tuman 9 ta shahar tipidagi aholi punkti (Jondor, Paxlavon, Dalmun, Koʻliyon, Samonchuq, Tobagar, Ushot, Xazorman, Chorzona) va 13 qishloq fuqarolar yigʻini (Dalmun, Qaroli, Lolo, Romish, Zarafshon, Oxshix, Xumdonak, Xumini)dan iborat . bolo, Mustaqillik, Poʻloti, Samonchuq, Aleli, Mirzayon)"
         },
         {
@@ -681,7 +681,7 @@
             "dencity":"160/",
             "since":"1926 ",
             "area": "500",
-            "img": "../public/images/region/buxoro_kogon.png",
+            "img": "./images/region/buxoro_kogon.png",
             "info": "Tuman ikki shahar tipidagi aholi punkti (Sarayonobod, Tutikunda) va 9 qishloq fuqarolar yigʻinidan iborat "
         },
         {
@@ -693,7 +693,7 @@
             "dencity":"19/",
             "since":"1979 ",
             "area": "8 690",
-            "img": "../public/images/region/buxoro_qorakol.png",
+            "img": "./images/region/buxoro_qorakol.png",
             "info": "Tuman 1 shahar (Qorakoʻl), 12 shahar tipidagi aholi punkti (Bandboshi, Dargʻabogʻi, Jigʻachi, Qorahoji, Quvvacha, Mirzaqalʼa, Sayyod, Solur, Chandirobod, Shoʻrabot, Yakka Aʼlam, Yangiqalʼa) va 16 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -705,7 +705,7 @@
             "dencity":"8,7/",
             "since":"1926 ",
             "area": "1 200",
-            "img": "../public/images/region/buxoro_qorovulbozor.png",
+            "img": "./images/region/buxoro_qorovulbozor.png",
             "info": "Tuman 1 shahar (Qorovulbozor) va 4 qishloq fuqarolar yigʻinidan (Navbahor, Boʻston, Buzachi, Jarqoq) iborat. "
         },
         {
@@ -717,7 +717,7 @@
             "dencity":"15/",
             "since":"1979 ",
             "area": "8 720",
-            "img": "../public/images/region/buxoro_peshku.png",
+            "img": "./images/region/buxoro_peshku.png",
             "info": "Tuman 4 ta shahar tipidagi aholi punkti (Yangibozor, Peshku, Shavgon, Mahallai-Mirishkor) va 10 ta qishloq fuqarolar yigʻinidan iborat. "
         },
         {
@@ -729,7 +729,7 @@
             "dencity":"60/",
             "since":"1926 ",
             "area": "2 450",
-            "img": "../public/images/region/buxoro_romitan.png",
+            "img": "./images/region/buxoro_romitan.png",
             "info": "Tuman 2 shahar (Romitan, Gazli ), 3 shahar tipidagi posyolka (Qoqishtuvon, Xosa, Yuqori Gʻazberon) va 6 qishloq fuqarolar yigʻinidan iborat. "
         },
         {
@@ -741,7 +741,7 @@
             "dencity":"49/",
             "since":"1979 ",
             "area": "3 720",
-            "img": "../public/images/region/buxoro_shofirkon.png",
+            "img": "./images/region/buxoro_shofirkon.png",
             "info": "Tuman tarkibiga 1 shahar (Shofirkon), 8 shahar tipidagi aholi punkti (Joʻyrabot, Iskogare, Quyi Chuqurak, Mirzoqul, Talisafed, Undare, Chandir, Gʻulomte) va 12 qishloq fuqarolar yigʻini (Vargonze, Denov, Joʻynav, Joʻyrabot, Doʻrmon, Savrak, Sulton Joʻra, Tezguzar, Mazlaxon chandir, Sh.Hamroyev nomli, Iskogare, Bogʻiafzal)"
         },
         {
@@ -753,7 +753,7 @@
             "dencity":"500/",
             "since":"1926 ",
             "area": "290",
-            "img": "../public/images/region/buxoro_vobkent.png",
+            "img": "./images/region/buxoro_vobkent.png",
             "info": "Tuman 1 shahar (Vobkent), 3 shahar tipidagi posyolka (Navbahor, Shirin, Kosari) va 11 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -765,7 +765,7 @@
             "dencity":"150/",
             "since":"1979 ",
             "area": "2 840",
-            "img": "../public/images/region/qashqadaryo_chiroqchi.png",
+            "img": "./images/region/qashqadaryo_chiroqchi.png",
             "info": "Tuman bir shahar ( Chiroqchi ), 8 shahar tipidagi aholi punkti (Jar, Oʻymovut, Dam, Pakandi, Paxtaobod, Chiyal, Koʻkdala, Ayritom) va 20 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -777,7 +777,7 @@
             "dencity":"37/",
             "since":"1926 ",
             "area": "4 000",
-            "img": "../public/images/region/qashqadaryo_dexqonobod.png",
+            "img": "./images/region/qashqadaryo_dexqonobod.png",
             "info": "Tuman 3 ta shahar tipidagi aholi punktlaridan ( Qorashina , Dehqonobod, Beshbuloq) iborat.) va 14 qishloq fuqarolar yigʻini. "
         },
         {
@@ -789,7 +789,7 @@
             "dencity":"78/",
             "since":"1979 ",
             "area": "2 660",
-            "img": "../public/images/region/qashqadaryo_guzor.png",
+            "img": "./images/region/qashqadaryo_guzor.png",
             "info": "Tuman bir shahar ( Gʻuzor ), 5 shahar tipidagi aholi punkti (Jarariq, Obihayot, Yangikent, Sherali, Mashʼal) va 12 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -801,7 +801,7 @@
             "dencity":"100/",
             "since":"1926 ",
             "area": "2 660",
-            "img": "../public/images/region/qashqadaryo_qamashi.png",
+            "img": "./images/region/qashqadaryo_qamashi.png",
             "info": "Tuman bir shahar ( Qamashi ), 5 shahar tipidagi aholi punkti (Balandchaylo, Qoratepa, Qiziltepa, Sarbozor, Badahshon) va 11 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -813,7 +813,7 @@
             "dencity":"280/",
             "since":"1979 ",
             "area": "910",
-            "img": "../public/images/region/qashqadaryo_qarshi.png",
+            "img": "./images/region/qashqadaryo_qarshi.png",
             "info": "Tuman bir shahar ( Beshkent ), 15 shahar tipidagi aholi punkti (Fayzobod, Saroy, Gʻubdin, Lagʻmon, Kuchkak, Xonobod, Shilvi, Qovchin, Nuqrabod, Yertepa, Navroʻz, Jumabozor, Mustaqillik, Mirmiron Yangi xayot) va 15 ta qishloq jamoalari. "
         },
         {
@@ -825,7 +825,7 @@
             "dencity":"150/",
             "since":"1979 ",
             "area": "1 880",
-            "img": "../public/images/region/qashqadaryo_koson.png",
+            "img": "./images/region/qashqadaryo_koson.png",
             "info": "Tuman bir shahar ( Koson ), 14 shahar tipidagi aholi punkti (Boygʻundi, Boyterak, Guvalak, Istiqlol, Qoʻyi Obron, Mudin, Oqtepa, Obod, Pudina, Poʻlati, Rahimsoʻfi, Surxon, Toʻlgʻa, Esaboy) va 9 tadan iborat. qishloq jamoalari"
         },
         {
@@ -837,7 +837,7 @@
             "dencity":"310/",
             "since":"1979 ",
             "area": "650",
-            "img": "../public/images/region/qashqadaryo_kasbi.png",
+            "img": "./images/region/qashqadaryo_kasbi.png",
             "info": "Tuman 9 shahar tipidagi aholi punkti ( Mugʻlon , Denov, Kasbi, Doʻstlik, Yangi qishloq, Xoʻjakasbi, Fazli, Maymanoq, Qatagʻan) va 10 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -849,7 +849,7 @@
             "dencity":"150/",
             "since":"",
             "area": "1 750",
-            "img": "../public/images/region/qashqadaryo_kitob.png",
+            "img": "./images/region/qashqadaryo_kitob.png",
             "info": "Tuman bir shahar ( Kitob ), 13 shahar tipidagi aholi punkti (Alaqoʻyliq, Bektemir, Rus qishloq, Baxtdarvozasi, Beshterak, Varganza, Obikanda, Panji, Sariosiyo, Sevaz, Xoji, Yakkatut, Yangiobod) va 12 qishloq fuqarolar yigʻinidan iborat. ."
         },
         {
@@ -861,7 +861,7 @@
             "dencity":"38/",
             "since":"",
             "area": "3 210",
-            "img": "../public/images/region/qashqadaryo_mirishkor.png",
+            "img": "./images/region/qashqadaryo_mirishkor.png",
             "info": "Tuman 3 ta shahar tipidagi aholi punktidan iborat ( Yangi Mirishkor, Jeynov, Pomuq) va 12 qishloq fuqarolar yigʻini. [1] Turkmaniston , Buxoro viloyati , Muborak tumani , Kasbi tumani , Nishon tumani bilan chegaradosh ."
         },
         {
@@ -873,7 +873,7 @@
             "dencity":"29/",
             "since":"",
             "area": "3 070",
-            "img": "../public/images/region/qashqadaryo_muborak.png",
+            "img": "./images/region/qashqadaryo_muborak.png",
             "info": "Tuman bir shahar ( Muborak ), 5 shahar tipidagi aholi punkti (Qarliq, Baxt, Qoraqum, Diyonat, Shayx) va 4 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -885,7 +885,7 @@
             "dencity":"74/",
             "since":"",
             "area": "2 110",
-            "img": "../public/images/region/qashqadaryo_nishon.png",
+            "img": "./images/region/qashqadaryo_nishon.png",
             "info": "Tuman ikki shahar ( Yangi Nishon va Tallimarjon ), 9 shahar tipidagi aholi punkti ( Nuriston , Nishon, Guliston, Oq oltin, Sardoba, Paxtachi, Oydin, Samarqand, Paxtaobod) va 8 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -897,7 +897,7 @@
             "dencity":"140/",
             "since":"",
             "area": "1 620",
-            "img": "../public/images/region/qashqadaryo_shahrishabz.png",
+            "img": "./images/region/qashqadaryo_shahrishabz.png",
             "info": "Tuman 13 ta shahar tipidagi aholi punkti ( Miroqi , Qumqishloq, Oʻrtaqoʻrgʻon, Chorshanbe, Temirchi, Yangiqishloq, Qutchi, Shamaton , Ammogʻon-1, Qoʻshqonot, Anday, Xoʻjaxuroson, Keldihayot) va 12 qishloq fuqarolar yigʻinidan iborat ."
         },
         {
@@ -909,7 +909,7 @@
             "dencity":"240/",
             "since":"",
             "area": "1 110",
-            "img": "../public/images/region/qashqadaryo_yakkabog.png",
+            "img": "./images/region/qashqadaryo_yakkabog.png",
             "info": "Tuman bir shahar ( Yakkabogʻ ), 14 shahar tipidagi aholi punktlaridan ( Eski Yakkabogʻ , Alaqargʻa , Alaqoʻyloq , Jarqirgʻiz , Qayragʻoch , Qatagʻon , Kattabogʻ , Madaniyat , Mevazor , Samoq , Turon , Oʻz , Chubron ) va 9 dan iborat. qishloq jamoalari."
         },
         {
@@ -921,7 +921,7 @@
             "dencity":"380/",
             "since":"",
             "area": "440",
-            "img": "../public/images/region/xorazm_bogot.png",
+            "img": "./images/region/xorazm_bogot.png",
             "info": "Tuman 5 ta shahar tipidagi aholi punktlaridan iborat ( Bogʻot , Madaniyat , Nurafshon, Oltinqum, Uzumzor, Yangiqadam) va 10 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -933,7 +933,7 @@
             "dencity":"340/",
             "since":"",
             "area": "440",
-            "img": "../public/images/region/xorazm_gurlan.png",
+            "img": "./images/region/xorazm_gurlan.png",
             "info": "Tuman 9 ta shahar tipidagi aholi punktlaridan iborat ( Gurlan , Chakkalar , Boʻzqalʼa , Nurzamin , Nukus yop. , Markaziy Guliston , Doʻsimbiy, Taxtakoʻpir , Yormish ) va 9 ta qishloq fuqarolar yigʻini"
         },
         {
@@ -945,7 +945,7 @@
             "dencity":"440/",
             "since":"",
             "area": "430",
-            "img": "../public/images/region/xorazm_xonqa.png",
+            "img": "./images/region/xorazm_xonqa.png",
             "info": "Tuman 5 ta shahar tipidagi aholi punktlaridan ( Xonqa , Istiqlol , Madaniy yer , Birlashgan , Yosh ) iborat. kuch) va 10 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -957,7 +957,7 @@
             "dencity":"1 500/",
             "since":"",
             "area": "130",
-            "img": "../public/images/region/qashqadaryo_qarshi.png",
+            "img": "./images/region/qashqadaryo_qarshi.png",
             "info": "Tuman 4 ta shahar tipidagi aholi punktlaridan ( Hazorasp , Oq yop, Oyoq ovvo, Nurxayot) va 11 qishloq jamoalari."
         },
         {
@@ -969,7 +969,7 @@
             "dencity":"340/",
             "since":"",
             "area": "430",
-            "img": "../public/images/region/xorazm_xiva.png",
+            "img": "./images/region/xorazm_xiva.png",
             "info": "Tuman 6 shahar tipidagi aholi punktlaridan iborat (Gullanbogʻ, Parchanxos, Iftixor, Shoʻr-Qalʻa, Yuqori qoʻm, Hamkor) va 9 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -981,7 +981,7 @@
             "dencity":"320/",
             "since":"",
             "area": "540",
-            "img": "../public/images/region/xorazm_qoshkopir.png",
+            "img": "./images/region/xorazm_qoshkopir.png",
             "info": "Tuman 6 ta shahar tipidagi aholi punktlaridan ( Qoʻshkoʻpir , Qoromon, Oʻrta qishloq, Xonbod, Shixmashhad) iborat. , Sherobod) va 12 qishloq fuqarolar yigʻini."
         },
         {
@@ -993,7 +993,7 @@
             "dencity":"370/",
             "since":"",
             "area": "460",
-            "img": "../public/images/region/xorazm_shovot.png",
+            "img": "./images/region/xorazm_shovot.png",
             "info": "Tuman 5 ta shahar tipidagi aholi punktlaridan ( Shovot , Boʻyrochi , Ipakchi , Qangli , Qat- qalʻa, Monoq, Chigʻatoy) va 11 qishloq fuqarolar yigʻini."
         },
         {
@@ -1005,7 +1005,7 @@
             "dencity":"450/",
             "since":"",
             "area": "450",
-            "img": "../public/images/region/xorazm_urganch.png",
+            "img": "./images/region/xorazm_urganch.png",
             "info": "Tuman 5 ta shahar tipidagi aholi punktlaridan ( Cholish , Oq oltin, Chandir, Koʻpalik, Gardonlar) iborat. ) va 10 ta qishloq fuqarolar yigʻini (shu jumladan Qorovul ). "
         },
         {
@@ -1017,7 +1017,7 @@
             "dencity":"290/",
             "since":"",
             "area": "400",
-            "img": "../public/images/region/xorazm_yangiariq.png",
+            "img": "./images/region/xorazm_yangiariq.png",
             "info": "Tuman 6 shahar tipidagi aholi punktlaridan iborat ( Yangiariq , Gulbogʻ, Soburzon, Suvgan, Tagan, Qoʻshloq) va 8 ta qishloq fuqarolar yigʻini."
         },
         {
@@ -1029,7 +1029,7 @@
             "dencity":"260/",
             "since":"",
             "area": "340",
-            "img": "../public/images/region/xorazm_yangibozor.png",
+            "img": "./images/region/xorazm_yangibozor.png",
             "info": "Tuman 3 ta shahar tipidagi posyolka ( Yangibozor , Yangi yop, Mangʻitlar) va 8 ta qishloq posyolkasidan iborat. jamoalar."
         },
         {
@@ -1041,7 +1041,7 @@
             "dencity":"28/",
             "since":"2020",
             "area": "1 920",
-            "img": "../public/images/region/xorazm_tuproqqala.png",
+            "img": "./images/region/xorazm_tuproqqala.png",
             "info": "U 2020-yil mart oyida Hazorasp tumanining kattaroq, sharqiy qismidan tashkil topgan . [2] Uning maydoni 1,920 km 2 (740 sq mi), [3] va 2021 yilda uning aholisi 54,400 edi."
         },
         {
@@ -1053,7 +1053,7 @@
             "dencity":"110/",
             "since":"1973",
             "area": "1 380",
-            "img": "../public/images/region/samarqand_paxtachi.png",
+            "img": "./images/region/samarqand_paxtachi.png",
             "info": "Tuman 7 shahar tipidagi aholi punkti ( Ziyovuddin , Qodirist , Past Burkut , Sanchiqul , Suluvqoʻrgʻon , Urgich , Xumor ) va 8 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -1065,7 +1065,7 @@
             "dencity":"250/",
             "since":"1926",
             "area": "760",
-            "img": "../public/images/region/samarqand_bulungur.png",
+            "img": "./images/region/samarqand_bulungur.png",
             "info": "Tuman bir shahar ( Bulungʻur ), 3 shahar tipidagi posyolka (Kildon, Soxibkor, Bogʻbon) va 7 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1077,7 +1077,7 @@
             "dencity":"360/",
             "since":"1943",
             "area": "720",
-            "img": "../public/images/region/samarqand_ishtixon.png",
+            "img": "./images/region/samarqand_ishtixon.png",
             "info": "Tuman bir shahar ( Ishtixon ), 12 shahar tipidagi aholi punkti ( Mitan , Azamat, Damariq, Bahrin, Qirqyigit, Odil, Sugʻot, Xalqobod, Shayxislom, Shayxlar, Yangikent, Yangirabot) va 9 qishloq fuqarolar yigʻinidan iborat"
         },
         {
@@ -1089,7 +1089,7 @@
             "dencity":"320/",
             "since":"1970",
             "area": "550",
-            "img": "../public/images/region/samarqand_jomboy.png",
+            "img": "./images/region/samarqand_jomboy.png",
             "info": "Tuman bir shahar ( Jomboy ), 5 shahar tipidagi aholi punkti (Dehqonobod, Eski Jomboy, Xoʻja, Gʻazira, Kattaqishloq) va 8 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1101,7 +1101,7 @@
             "dencity":"200/",
             "since":"1926",
             "area": "1 390",
-            "img": "../public/images/region/samarqand_kattakurgan.png",
+            "img": "./images/region/samarqand_kattakurgan.png",
             "info": "Tuman 8 ta shahar tipidagi aholi punkti ( Payshanba , Suv hovuzi , Mundiyon, Polvontepa, Qoradaryo, Vayrat, Yangiqoʻrgʻoncha, Kattaming ) va 11 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1113,7 +1113,7 @@
             "dencity":"62/",
             "since":"1978",
             "area": "2 160",
-            "img": "../public/images/region/samarqand_qosharabot.png",
+            "img": "./images/region/samarqand_qosharabot.png",
             "info": "Tuman ikki shahar tipidagi aholi punkti ( Qoʻshrabot , Zarkent) va 7 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1125,7 +1125,7 @@
             "dencity":"490/",
             "since":"1926",
             "area": "440",
-            "img": "../public/images/region/samarqand_narpay.png",
+            "img": "./images/region/samarqand_narpay.png",
             "info": "Tuman bir shahar ( Oqtosh ), 3 shahar tipidagi aholi punkti ( Mirbozor , Guliston, Qoʻyi Charxin ) va 9 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1137,7 +1137,7 @@
             "dencity":"31/",
             "since":"1975",
             "area": "4 860",
-            "img": "../public/images/region/samarqand_nurobod.png",
+            "img": "./images/region/samarqand_nurobod.png",
             "info": "Tuman bir shahar ( Nurobod ), bitta shahar tipidagi aholi punkti (Nurbuloq) va 7 qishloq fuqarolar yigʻinidan (Jom, Jarquduq, Nurbuloq, Tim, Sazogʻon, Ulus, Tutli) iborat."
         },
         {
@@ -1149,7 +1149,7 @@
             "dencity":"410/",
             "since":"1926",
             "area": "390",
-            "img": "../public/images/region/samarqand_oqdaryo.png",
+            "img": "./images/region/samarqand_oqdaryo.png",
             "info": "Tuman 10 ta shahar tipidagi posyolka ( Loyish , Dahbed , Avazali, Bolta, Qirqdarxon, Kumushkent, Oytamgʻali, Oqdaryo, Yangiqoʻrgʻon, Yangiobod) va 6 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1161,7 +1161,7 @@
             "dencity":"200/",
             "since":"1926",
             "area": "1 290",
-            "img": "../public/images/region/samarqand_payariq.png",
+            "img": "./images/region/samarqand_payariq.png",
             "info": "Tuman ikki shahar ( Payariq , Chelak ), 9 shahar tipidagi aholi punkti (Tomoyrat, Qorasuv, Koʻksaroy, Gʻujumsoy, Xoʻja Ismoil, Tupolos, Oqqoʻrgʻon, Doʻstlarobod, Doʻstlik) va 11 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1173,7 +1173,7 @@
             "dencity":"410/",
             "since":"1926",
             "area": "870",
-            "img": "../public/images/region/samarqand_pastdorgom.png",
+            "img": "./images/region/samarqand_pastdorgom.png",
             "info": "Tuman bir shahar ( Juma ), 12 shahar tipidagi aholi punkti ( Chorxin , Chortut, Oʻrta Charxin, Balhiyon, Goʻzalkent, Nayman, Jagʻalboyli, Mehnat, Hindiboʻyi, Agron, Iskandari, Saribosh) va 13 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1185,7 +1185,7 @@
             "dencity":"600/",
             "since":"1930",
             "area": "430",
-            "img": "../public/images/region/samarqand_samarqand.png",
+            "img": "./images/region/samarqand_samarqand.png",
             "info": "2020 yil holatiga koʻra tumanda ikkita shahar tipidagi aholi punkti ( Gulobod va Xoʻja Ahrori Vali ) va 8 ta qishloq fuqarolar yigʻini mavjud: "
         },
         {
@@ -1197,7 +1197,7 @@
             "dencity":"730/",
             "since":"1992",
             "area": "280",
-            "img": "../public/images/region/samarqand_toyloq.png",
+            "img": "./images/region/samarqand_toyloq.png",
             "info": "Tuman 3 ta shahar tipidagi aholi punkti ( Toʻyloq , Adas, Bogʻizagʻon) va 9 ta qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1209,7 +1209,7 @@
             "dencity":"460/",
             "since":"1973",
             "area": "1 120",
-            "img": "../public/images/region/samarqand_urgut.png",
+            "img": "./images/region/samarqand_urgut.png",
             "info": "Tuman bir shahar ( Urgut ), 7 shahar tipidagi aholi punkti (Jartepa, Kamangaron, Gʻoʻs , Pochvon, Ispanza, Uramas, Kenagas) va 12 qishloq fuqarolar yigʻinidan iborat. [1] Zarafshon tizmasining shimoliy yon bagʻrida joylashgan . [4] Har bahorgi tengkunlik kunida Navroʻz bayrami boʻladi ."
         },
         {
@@ -1221,7 +1221,7 @@
             "dencity":"350/",
             "since":"1952",
             "area": "390",
-            "img": "../public/images/region/surxondaryo_angor.png",
+            "img": "./images/region/surxondaryo_angor.png",
             "info": "Tuman 12 shahar tipidagi aholi punkti ( Angor , Tallimaron, Xomkon, Qorasuv, Yangiobod, Talloshqon, Gilambob, Zartepa, Yangi turmush, Angor (yangi), Qayron, Novshahar) va 7 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1233,7 +1233,7 @@
             "dencity":"200/",
             "since":"1992",
             "area": "378,91",
-            "img": "../public/images/region/surxondaryo_bandixon.png",
+            "img": "./images/region/surxondaryo_bandixon.png",
             "info": "Tuman ilk bor 1992 yilda tashkil etilgan [4] va 2010 yilda tugatilib Qiziriq tumaniga birlashtirilgan [5] 2019 yilda Qiziriq va Boysun tumanlari tarkibidan qaytadan tashkil etilgan ."
         },
         {
@@ -1245,7 +1245,7 @@
             "dencity":"33/",
             "since":"1926",
             "area": "3 546",
-            "img": "../public/images/region/surxondaryo_boysun.png",
+            "img": "./images/region/surxondaryo_boysun.png",
             "info": "Tuman bir shahar ( Boysun ), 5 shahar tipidagi aholi punkti (Kofrun, Tangimush, Pasurxi, Qoraboʻyin, Rabot) va 7 qishloq fuqarolar yigʻinidan iborat. [1] 2019 yilda u oʻz hududining bir qismini (174 km 2 (67 sq mil)) qayta tashkil etilgan Bandixon tumaniga boy berdi."
         },
         {
@@ -1257,7 +1257,7 @@
             "dencity":"520/",
             "since":"1926",
             "area": "760",
-            "img": "../public/images/region/surxondaryo_denov.png",
+            "img": "./images/region/surxondaryo_denov.png",
             "info": "Tuman bir shahar ( Denov ), 12 shahar tipidagi aholi punktlari ( Doʻstlik , Yurchi, Qiziljar, Xolchayon, Xitoyan, Paxtakurash, Namozgoh, Jamatak, Yangi Hazorbogʻ, Yangibogʻ, Dahana, Yangiobod) va 17 qishloq fuqarolar yigʻinidan (Anbarsoy, Denov, Kenagas, Qiziljar, Fargʻona, Tortuvli, Pistamozor, Sino, Xayrabot, Hazarbogʻ, Xolchayon, Yangibogʻ, Yangizamon, Yurchi, Yangiobod, Binokor, Dahana)"
         },
         {
@@ -1269,7 +1269,7 @@
             "dencity":"190/",
             "since":"1926",
             "area": "1 140",
-            "img": "../public/images/region/surxondaryo_jarqorgon.png",
+            "img": "./images/region/surxondaryo_jarqorgon.png",
             "info": " Tuman bir shahar ( Jarqoʻrgʻon ), 5 shahar tipidagi aholi punkti ( Kakaydi , Minor, Qoraqursoq, Markaziy Surxon, Kafrun) va 7 qishloq fuqarolar yigʻini (Oqqoʻrgʻon, Jarqoʻrgʻon, Dehqonobod, Minor , Surxon, Chorjoʻzi, Sharq) dan iborat. ."
         },
         {
@@ -1281,7 +1281,7 @@
             "dencity":"340/",
             "since":"1975",
             "area": "345",
-            "img": "../public/images/region/surxondaryo_qiziriq.png",
+            "img": "./images/region/surxondaryo_qiziriq.png",
             "info": "Tuman tarkibiga 5 shahar tipidagi aholi punkti ( Sariq , Kunchiqish, Yangi hayot, Qarmaki, Istara) va 10 qishloq fuqarolar yigʻini (Zarkamar, Olmazor, Bandixon, Qiziriq, Qirshak, Chorvador, Paxtakor, Sharq Istara, Yangi yoʻl, Mehnatobod) kiradi."
         },
         {
@@ -1293,7 +1293,7 @@
             "dencity":"110/",
             "since":"1977",
             "area": "2 200",
-            "img": "../public/images/region/surxondaryo_qumqorgon.png",
+            "img": "./images/region/surxondaryo_qumqorgon.png",
             "info": "Tuman bir shahar ( Qumqoʻrgʻon ), 11 shahar tipidagi aholi punkti ( Hurriyat , Elbayon, Elobod, Azlarsoy, Bogʻora, Oqsoy, Jiydali , Navbahor, Qarsoqli, Yangiyer, Jaloir) va 8 qishloq fuqarolar yigʻinidan (Oqqapchigʻay, Sherozʻiy, Jaloir) iborat. Oqjar, Qumqoʻrgʻon, Yuqori Kakaydi, Ketmon, Arslonboyli)"
         },
         {
@@ -1305,7 +1305,7 @@
             "dencity":"190/",
             "since":"1968",
             "area": "740",
-            "img": "../public/images/region/surxondaryo_muzrabot.png",
+            "img": "./images/region/surxondaryo_muzrabot.png",
             "info": "Tuman 10 ta shahar tipidagi aholi punkti ( Xalqobod , Baxt, Baynalmilal, Guliston, Iftixor, Qozoyoqli, Oq oltin, Taskent, Ozod Vatan, Chegarachi) va 9 qishloq fuqarolar yigʻini (Beshqoʻton, Boldir, Sarhad, Qoraqamar, Sharqi, Muzrabot, Navbahor, Obodon, Shoʻrob)."
         },
         {
@@ -1317,7 +1317,7 @@
             "dencity":"320/",
             "since":"1981",
             "area": "570",
-            "img": "../public/images/region/oltinsoy.png",
+            "img": "./images/region/oltinsoy.png",
             "info": "Tuman 14 shahar tipidagi aholi punkti ( Qarluq , Botosh, Jobu, Ipoq, Qurama, Boʻston, Mormin, Xayrandara, Xoʻjasoat, Chep, Shakarqamish, Ekraz, Yangiqurilish, Gulobod) va 9 qishloq fuqarolar yigʻinidan iborat."
         },
         {
@@ -1329,7 +1329,7 @@
             "dencity":"54/",
             "since":"1926",
             "area": "3 930",
-            "img": "../public/images/region/surxondaryo_sariosiyo.png",
+            "img": "./images/region/surxondaryo_sariosiyo.png",
             "info": " Tuman bir shahar ( Shargʻun ), 4 shahar tipidagi aholi punkti ( Sariosiyo , Yangihayot , Tortuli , Boʻyropoʻsht ) va 9 qishloq fuqarolar yigʻinidan ( Dashnobod ) iborat., Navroʻz, Buyuk kelajak, Sangardak, Bogʻi iram, Soʻfiyon, Toqchiyon, Oʻzbekiston, Xufar)."
         },
         {
@@ -1341,7 +1341,7 @@
             "dencity":"72/",
             "since":"1926",
             "area": "2 730",
-            "img": "../public/images/region/surxondaryo_sherobod.png",
+            "img": "./images/region/surxondaryo_sherobod.png",
             "info": "Tuman bir shahar ( Sherobod ), 7 shahar tipidagi aholi punkti (Zarabogʻ, Qilkon, Navbogʻ, Paxtaobod, Sariqamish, Choʻyinchi, Yangiariq) va 9 qishloq fuqarolar yigʻinidan iborat. "
         },
         {
@@ -1353,7 +1353,7 @@
             "dencity":"250/",
             "since":"1926",
             "area": "850",
-            "img": "../public/images/region/surxondaryo_shorchi.png",
+            "img": "./images/region/surxondaryo_shorchi.png",
             "info": "Tuman tarkibiga bitta shahar ( Shoʻrchi ), 10 ta shahar tipidagi aholi punkti ( Elbayon , Toʻla, Yalti, Xushchekka, Qoʻshtegirmon, Kattasovur, Karvon, Gʻarmaqoʻrgʻon, Jarqishloq, Joyilma) va 10 ta qishloq fuqarolar yigʻini (Qoʻldosh, Alpomish, Elpomish, Baxtliurte) kiradi. , Sohibkor, Dalvarzin, Jaloir, Shoʻrchi, Yangibozor)."
         },
         {
@@ -1365,7 +1365,7 @@
             "dencity":"91/",
             "since":"1926",
             "area": "860",
-            "img": "../public/images/region/surxondaryo_termiz.png",
+            "img": "./images/region/surxondaryo_termiz.png",
             "info": "Tuman 9 ta shahar tipidagi aholi punktlaridan ( Uchqizil , Limonchi , Tojribakor , Namuna , At-Termiziy , Mustaqillik , Pattakesar ) iborat., Chegarachi , Qizilboy ) va 5 ta qishloq fuqarolar yigʻini. "
         },
         {
@@ -1377,7 +1377,7 @@
             "dencity":"110/",
             "since":"1942",
             "area": "1 630",
-            "img": "../public/images/region/surxondaryo_uzun.png",
+            "img": "./images/region/surxondaryo_uzun.png",
             "info": "Tuman 9 shahar tipidagi aholi punkti ( Uzun , Chinor , Ulanqul , Qorashiq , Yangi kuch, Jonchekka, Malandiyon, Mehnat, Yangi roʻzgʻor) va 7 qishloq fuqarolar yigʻinidan iborat. "
         }
         
