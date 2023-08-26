@@ -6,7 +6,7 @@ import { Carousel } from 'react-bootstrap'
 
 
 const Buxoro = () => {
-    const [url, setUrl] = useState('http://localhost:3000/regions?region=buxoro')
+    const [url, setUrl] = useState('https://my-json-server.typicode.com/fayozbekdew/buxoroDb/regions')
     const { data, error, isPending } = useFetch(url)
     return (
         <main>

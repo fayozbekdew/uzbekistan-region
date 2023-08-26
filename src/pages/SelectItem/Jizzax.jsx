@@ -5,7 +5,7 @@ import '../../css/index.css'
 import { Carousel } from 'react-bootstrap'
 
 const Jizzax = () => {
-    const [url, setUrl] = useState('http://localhost:3000/regions?region=jizzax')
+    const [url, setUrl] = useState('https://my-json-server.typicode.com/fayozbekdew/jizzaxDb/regions')
     const { data, error, isPending } = useFetch(url)
     return (
         <main>

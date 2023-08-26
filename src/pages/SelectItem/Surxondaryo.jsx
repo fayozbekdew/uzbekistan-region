@@ -5,7 +5,7 @@ import '../../css/index.css'
 import { Carousel } from 'react-bootstrap'
 
 const Surxondaryo = () => {
-    const [url, setUrl] = useState('http://localhost:3000/regions?region=surxondaryo')
+    const [url, setUrl] = useState('https://my-json-server.typicode.com/fayozbekdew/surxondaryoDb/regions')
     const { data, error, isPending } = useFetch(url)
     return (
         <main>
